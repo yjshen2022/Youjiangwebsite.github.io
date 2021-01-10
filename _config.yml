@@ -21,9 +21,9 @@
 title: Global Hydrodynamics Lab @ IIS U-Tokyo
 email: yamadai [at] iis.u-tokyo.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We do science on land water dynamics on multiple scales from local to global scales, 
+  mainly using modelling approaches while integrating observational techniques.
+  How to join our lab (either as a real lab team or virtual collabprators): please visit the member page for detailed info. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bigasmountain
