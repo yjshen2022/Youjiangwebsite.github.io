@@ -2,16 +2,12 @@
 layout: home
 title: Home
 ---
-<button type="button" class="btn btn-default" aria-label="Left Align">
-  <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
-</button>
-
-<button type="button" class="btn btn-default btn-lg">
-  <span class="glyphicon glyphicon-star" aria-hidden="true"></span> Star
-</button>
 
 # Welcome!
 ![Top Image]({{site.baseurl}}/images/webpage/MERIT_width.png)
+
+## Who are we?
+Global hydrodynamics lab (PI: Dai Yamazaki) is in Institute of Industrial Science, The University of Tokyo .
 
 ## What is Global Hydrodynamics?
 “Global Hydrodynamics” is the study of the dynamics of terrestrial waters  over the entire Earth.  

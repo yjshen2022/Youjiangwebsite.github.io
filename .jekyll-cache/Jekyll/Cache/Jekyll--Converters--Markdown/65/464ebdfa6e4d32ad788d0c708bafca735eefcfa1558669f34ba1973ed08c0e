@@ -1,13 +1,8 @@
-I"7<p><button type="button" class="btn btn-default" aria-label="Left Align">
-  <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
-</button></p>
-
-<p><button type="button" class="btn btn-default btn-lg">
-  <span class="glyphicon glyphicon-star" aria-hidden="true"></span> Star
-</button></p>
-
-<h1 id="welcome">Welcome!</h1>
+I"�<h1 id="welcome">Welcome!</h1>
 <p><img src="/images/webpage/MERIT_width.png" alt="Top Image" /></p>
+
+<h2 id="who-are-we">Who are we?</h2>
+<p>Global hydrodynamics lab (PI: Dai Yamazaki) is in Institute of Industrial Science, The University of Tokyo .</p>
 
 <h2 id="what-is-global-hydrodynamics">What is Global Hydrodynamics?</h2>
 <p>“Global Hydrodynamics” is the study of the dynamics of terrestrial waters  over the entire Earth.</p>
