@@ -3,19 +3,11 @@ layout: default
 ---
 
 <div class="home">
-
-<button type="button" class="btn btn-default" aria-label="Left Align">
-  <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
-</button>
-
-<button type="button" class="btn btn-default btn-lg">
-  <span class="glyphicon glyphicon-star" aria-hidden="true"></span> Star
-</button>
-
-
+<!--
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+-->
 
   {{ content }}
 
@@ -41,7 +33,6 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-<h4>test test test</h4>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

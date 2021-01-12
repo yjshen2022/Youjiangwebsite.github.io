@@ -21,7 +21,7 @@
 title: Global Hydrodynamics Lab @ IIS U-Tokyo
 email: yamadai [at] iis.u-tokyo.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  How to join our team: please visit the member page for detailed info. 
+  PI: Dai Yamazaki (PhD, Assoc Prof @ U-Tokyo)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bigasmountain
@@ -31,8 +31,6 @@ github_username:  global-hydrodynamics
 theme: minima
 plugins:
   - jekyll-feed
-sass: 
-  saas_dir: _sass
 
 # Exclude from processing.
 # The following items will not be processed, by default.
