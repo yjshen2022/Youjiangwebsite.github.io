@@ -1,0 +1,10 @@
+name,ID,photo,info,duration,email,number_desc,description1,description2,description3,description4,description5
+Dai Yamazaki,10,Yamazaki.jpg,PI: Associate professor,Apr 2018-,yamadai [at] rainbow.iis.u-tokyo.ac.jp,5,PI of Global Hydrodynamics Lab.,"<a href=""http://hydro.iis.u-tokyo.ac.jp/~yamadai/"">Personal Webpage</a>","<a href=""https://scholar.google.com/citations?user=2c_Vf3cAAAAJ"">Google Scholar</a>","<a href=""https://orcid.org/0000-0002-6478-1841"">ORCID</a>","<a href=""https://twitter.com/bigasmountain"">Twitter</a>"
+Xudong Zhou,20,lab_logo.png,Postdoc,Oct 2019-,,3,description1,description2,description3,,
+Megumi Watanabe,30,lab_logo.png,Postdoc,Apr 2019-,,3,description1,description2,description3,,
+Menaka Revel,40,lab_logo.png,Postdoc,Nov 2019-,,3,description1,description2,description3,,
+Prakat Modi,110,lab_logo.png,Ph.D student,Sep 2019-,,3,description1,description2,description3,,
+Shuping Li,120,lab_logo.png,Ph.D student,Sep 2020-,,3,description1,description2,description3,,
+Yang Hu,130,lab_logo.png,Ph.D student,Sep 2020-,,3,description1,description2,description3,,
+Kota Adachi,210,lab_logo.png,Master,Apr 2018-,,3,HIllslope scheme in global land model,personal webpage,etc,,
+Kotaro Hamada,220,lab_logo.png,Master,Apr 2018-,,2,Soil physics scheme,etc,,,
