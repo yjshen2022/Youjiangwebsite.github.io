@@ -2,24 +2,18 @@
 layout: default
 ---
 <div class="row">
-  <div id="homeid" class="col-sm-8">
-    <h1>Welcome!</h1>
-    <p>NOTE: This webpage is currently under construction.</p>
-    <p>Global Hydrodynamics Lab (PI: Dai Yamazaki) is in <a href="https://www.iis.u-tokyo.ac.jp/">Institute of Industrial Science</a>, <a href="https://www.u-tokyo.ac.jp/">The University of Tokyo</a>. 
-      Our works mainly focus on the dynamics of land waters.
-      We are a part of <a href="http://hydro.iis.u-tokyo.ac.jp/">U-Tokyo Global Hydrology Group</a>.</p>
-
-    {% include slider.html %}
-
+  <div id="homeid" class="col-lg-8">
     {{ content }}
   </div>
 
-  <div id="newsid" class="col-sm-4" >
+  <div id="newsid" class="col-lg-4" >
     <!--	{% include news.html %} -->
-    <h2>Lab News (Twitter)</h2>
-     <a class="twitter-timeline" data-height="1200" data-link-color="#007bff" href="https://twitter.com/G_Hydrodynamics?ref_src=twsrc%5Etfw">
+    <h3>Lab News (Twitter)</h3>
+     <a class="twitter-timeline" data-tweet-limit="8" data-link-color="#007bff" href="https://twitter.com/G_Hydrodynamics?ref_src=twsrc%5Etfw" data-chrome=”noheader” data-chrome="nodate">
       Tweets by Yamazaki Lab
      </a>
      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
+
+{% include products.html %}

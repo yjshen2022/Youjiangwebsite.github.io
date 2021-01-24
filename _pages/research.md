@@ -1,37 +1,39 @@
 ---
 title: "Yamazaki Lab - Research"
-layout: textlay
+layout: pagelay
 excerpt: "Yamazaki Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Our Research
 
-Our overarching goal is ....
-
-<!--
-
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
-
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+Our research goal is to understand and predict the dynamics of land waters from local to global scales, including its interaction with Earth system and human society. To achieve this goal, we work on various science challenges on global hydrology/hydrodynamics mainly using modelling, remote sensing, and data integration approaches.. 
 
 Here are some themes and techniques that we currently work on:
 
--->
 
-**Global River Hydrodynamics Modelling (CaMa-Flood).** Global River Model.
+#### **Global River Hydrodynamics Modelling (CaMa-Flood)** 
+River is an important component of the global hydrological cycle, and it interacts with Earth's climate and biogeochemical systems by transferring water and other materials from land to oceans. It also affects human society by providing water resources, while too much or too small river discharge causes disasters (i.e. flood, drought). Understanding and predicting river water dynamics is essential for representing rivers within global climate models and also for water resource planning and water-related disaster mitigation. However, modelling of river hydrodynamics on the global scale is difficult because of its multi-scale nature. While we have to consider the basin-wide water budget of continental rivers (spatial scale: >1000km), the water movement is regulated by detailed topography of river channels and floodplains (spacial stale: <100m). To overcome this difficulty, we are working on developing a global river model [CaMa-Flood](http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/), which can simulate river hydrodynamics very efficiently by representing flood inundation as sub-grid scale physics.
+
+#### **Improvement of global topography dataset (MERIT data series)** 
+While modelling is a powerful tool to understand and predict the global hydrological cycle, its accuracy highly depends on the quality of the available topography dataset because the dynamics of land waters is largely constrained by local topographic relief. However, the availability of high-accuracy topography data is limited on the global scale, especially in developing countries and remote areas without human settlement. Satellite measurements can cover these areas, while the accuracy of spaceborne topography data is still not adequate for land hydrodynamics modelling. We are working on developing very high accuracy global topography datasets which are ready-to-be-used for global and regional hydrology models, by integrating multiple satellite and geospatial datasets and applying extensive hydro-geographical data processings. <br />
+
+- [MERIT Hydro](http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/) global hydrography map
+- [MERIT DEM](http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/) global topography map
+
+#### **Remote sensing and data assimilation of global hydrodynamics.**
+We also work on the remote sensing of land waters to reveal the actual status of global hydrology cycle by observational approach. We use various satellite techniques (optical, radar, altimetry, microwave, gravimetry) to measure different variables in the global hydrological cycle. We are a part of the [SWOT Science Team](https://swot.jpl.nasa.gov/) and collaborate with scientists all over the world to advance our understanding of surface waters using state-of-the-art satellite measurement techniques.
+
+In addition, integration of model simulations and satellite/in-situ measurements is required for more precise monitoring of global hydrodynamics state. We are developing various model-data integration techniques, such as data assimilation or multi-variable model optimization. These techniques are used to realize the optimum estimate of global hydrological cycle and also to reveal model parameters unobservable from satellite measurement (such as underwater river topography).
+
+#### **Hydrology processes in Earth System Models**
+We are also working on the improvement of land hydrology processes within the framework of global climate models and Earth system models. Historically, land surface models only consider vertical water and energy fluxes for representing land-atmosphere interactions as the bottom boundary condition of atmospheric models. However, the importance of more detailed hydrology processes is discussed recently, as they interact with Earth's climate system via biogeochemical and ecological processes. For example, carbon emission over land waters (CO2 from stream and lake surface, methane from wetlands) is not negligible in global carbon budget studies, and hillslope water redistribution could control vegetation dynamics and water budgets. We are trying to develop a new multi-scale modelling approach to represent these detailed hydrological processes within the Earth system modelling framework, and to examine their impact on the global climate system.
 
 
-**Improvement of global topography/geography map for hydrology models (MERIT dataset).** Precise topography data is the key for high-accuracy land hydrology simulations.
+#### **Global climate/flood risk assessment**
+Our global river hydrodynamics model CaMa-Flood is a powerful tool to estimate flood risk on a large scale because of its very high computational efficiency. By utilizing this advantage, we are working on several applicational studies, such as global/nationwide real-time flood forecast, global-scale flood risk assessment under climate change, and probabilistic flood risk analysis using large ensemble data, assessment of compound disaster risk.
 
 
-**Model-data integration for global hydrology monitoring.** Data assimilaion, etc.
-
-
-**Hydrological processes in Earth System Models** Hillslope hydrology in ESM. Coupling with climate models, etc.
-
-
-**Global climate/flood risk assessment** CaMa-Flood based risk assessment.
 
 ### ... and more.

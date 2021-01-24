@@ -1,6 +1,6 @@
 ---
 title: "Yamazaki Lab - Team"
-layout: gridlay
+layout: pagelay
 excerpt: "Yamazaki Lab: Team members"
 sitemap: false
 permalink: /team/

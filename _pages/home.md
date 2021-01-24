@@ -5,6 +5,19 @@ excerpt: "Yamazaki Lab at IIS U-Tokyo"
 sitemap: false
 permalink: /
 ---
+# Welcome!
+**NOTE: This webpage is currently under construction.**
+
+Global Hydrodynamics Lab (PI: [Dai Yamazaki](http://hydro.iis.u-tokyo.ac.jp/~yamadai/)) is a part of U-Tokyo [Global Hydrology Group](http://hydro.iis.u-tokyo.ac.jp/) in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/). 
+
+Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
+
+- [Research targets and methods](./research/)  /  [Publications and outcome](./publications/)
+- [Team member](./team/)  /  [How to join our team?](./joinus/)
+
+
+
+{% include slider.html %}
 
 ## What is Global Hydrodynamics?
 “Global Hydrodynamics” is the study of the dynamics of terrestrial waters  over the entire Earth.  
@@ -15,23 +28,3 @@ We extensively use modelling, remote sensing, and data integration approaches to
 
 In addition to natural hydrological cycle, we also assess the impact of the terrestrial water variability to the human well-beings (e.g. flood, water resources, ecosystem service), and try to understand the reactions of the society (i.e. water resources and hazard management) and their feedback to the global hydrodynamic system.
 
-<!--
-
-## Below is from original code, to be modified later:
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
-
--->

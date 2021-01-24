@@ -1,6 +1,6 @@
 ---
 title: "Yamazaki Lab - Pictures"
-layout: piclay
+layout: pagelay
 excerpt: "Yamazaki Lab -- Pictures"
 permalink: /pictures/
 ---

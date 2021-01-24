@@ -1,0 +1,32 @@
+<h2>Our Research Products</h2>
+{% assign number_printed = 0 %}
+{% for product in site.data.productlist %}
+
+{% assign even_odd = number_printed | modulo: 3 %}  
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-lg-4">
+ <div class="well">
+  <a href="{{ product.link.url }}">
+  <pubtit>{{ product.title }}</pubtit><br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/{{ product.image }}" class="img-responsive" width="100%" style="float: center" />
+  <p>{{ product.description }}</p>
+  </a>
+ </div>
+</div>
+
+{% if even_odd == 2 %}
+</div>  <!-- /row, when even_odd  -->
+{% endif %}
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% endfor %}
+
+<!-- if list number is odd, "/div" should be added -->
+{% assign even_odd = number_printed | modulo: 3 %}
+{% if even_odd != 0 %}
+</div>
+{% endif %}
