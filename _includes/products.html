@@ -1,32 +1,17 @@
-<h2>Our Research Products</h2>
-{% assign number_printed = 0 %}
-{% for product in site.data.productlist %}
+<b><a href="http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/">CaMa-Flood</a>:</b>
+Global hydrodynamic model<br>
 
-{% assign even_odd = number_printed | modulo: 3 %}  
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+<b><a href="http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/">MERIT DEM</a>:</b>
+High-accuracy global DEM<br>
 
-<div class="col-sm-3">
- <div class="well2">
-  <a href="{{ product.link.url }}">
-  <pubtit>{{ product.title }}</pubtit><br>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/{{ product.image }}" class="img-responsive" width="100%" style="float: center" />
-  <p>{{ product.description }}</p>
-  </a>
- </div>
-</div>
+<b><a href="http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/">MERIT Hydro</a>:</b>
+Global river topography<br>
 
-{% if even_odd == 2 %}
-</div>  <!-- /row, when even_odd  -->
-{% endif %}
+<b><a href="http://hydro.iis.u-tokyo.ac.jp/~yamadai/JapanDir/">J-FlwDir</a>:</b>
+Japan Flow Direction Map<br>
 
-{% assign number_printed = number_printed | plus: 1 %}
+<b><a href="http://hydro.iis.u-tokyo.ac.jp/~yamadai/G3WBM/">G3WBM/G1WBM</a>:</b>
+Global 3s/1s water map<br>
 
-{% endfor %}
-
-<!-- if list number is odd, "/div" should be added -->
-{% assign even_odd = number_printed | modulo: 3 %}
-{% if even_odd != 0 %}
-</div>
-{% endif %}
+<b><a href="http://hydro.iis.u-tokyo.ac.jp/~yamadai/OSM_water/">OSM Water Layer</a>:</b>
+Water layer from OpenStreetMap<br>

@@ -10,8 +10,13 @@ permalink: /research/
 
 Our research goal is to understand and predict the dynamics of land waters from local to global scales, including its interaction with Earth system and human society. To achieve this goal, we work on various science challenges on global hydrology/hydrodynamics mainly using modelling, remote sensing, and data integration approaches.. 
 
-Here are some themes and techniques that we currently work on:
+## Our Products (code & data)
 
+{% include products.html %}
+
+## Target ands Methods
+
+Here are some themes and techniques that we currently work on:
 
 #### **Global River Hydrodynamics Modelling (CaMa-Flood)** 
 River is an important component of the global hydrological cycle, and it interacts with Earth's climate and biogeochemical systems by transferring water and other materials from land to oceans. It also affects human society by providing water resources, while too much or too small river discharge causes disasters (i.e. flood, drought). Understanding and predicting river water dynamics is essential for representing rivers within global climate models and also for water resource planning and water-related disaster mitigation. However, modelling of river hydrodynamics on the global scale is difficult because of its multi-scale nature. While we have to consider the basin-wide water budget of continental rivers (spatial scale: >1000km), the water movement is regulated by detailed topography of river channels and floodplains (spacial stale: <100m). To overcome this difficulty, we are working on developing a global river model [CaMa-Flood](http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/), which can simulate river hydrodynamics very efficiently by representing flood inundation as sub-grid scale physics.
