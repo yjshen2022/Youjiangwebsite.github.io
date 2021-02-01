@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
+For a full list, see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=2c_Vf3cAAAAJ&view_op=list_works).
 
-( For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/user=2c_Vf3cAAAAJ) )
+## Highlights
 
 {% include pub_highlight.html %}
 

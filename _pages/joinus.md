@@ -52,6 +52,11 @@ We also welcome visitors for research collaboration (sabatical, visiting scholar
 
 学部生として卒論研究を行いたい場合は、社会基盤学科の水圏環境グループから研究室に加わることができます。
 
+山崎研究室で取り組むことのできる研究例として、以下のリストを参考にしてください。
+- [研究テーマと手法](../research/)
+- [研究成果(学術論文など)](../publications/)
+- [学生の学位論文リスト](../student_thesis/)
+
 JSPS特別研究員のホストは常時受け付けています。ポスドク研究員のポジションがある場合もあるので、興味がある場合は連絡お願いします。
 
 
