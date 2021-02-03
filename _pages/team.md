@@ -10,10 +10,6 @@ permalink: /team/
 
  **We are  looking for new Postdoc, PhD students, and Master/Bachelor students to join the team** [(see Join Us page)]({{ site.url }}{{ site.baseurl }}/joinus) **!**
 
-<!--
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
--->
-
 ## Staff / Students
 {% assign number_printed = 0 %}
 
@@ -136,6 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 </div>
 
+[List of student thesis](../student_thesis/) (PhD/MA/BA thesis)
 
 ## Administrative Support
 Minako Yokoyama (m-yoko [at] iis.u-tokyo.ac.jp) and Yuki Tsukada (tsuka [at] rainbow.iis.u-tokyo.ac.jp) are helping us (and other groups) with administration.
