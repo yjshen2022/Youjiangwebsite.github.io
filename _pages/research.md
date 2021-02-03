@@ -14,7 +14,7 @@ Our research goal is to understand and predict the dynamics of land waters from 
 
 {% include products.html %}
 
-## Target ands Methods
+## Targets and Methods
 
 Here are some themes and techniques that we currently work on:
 
