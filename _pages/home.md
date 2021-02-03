@@ -26,6 +26,8 @@ In addition to natural hydrological cycle, we also assess the impact of the terr
 ## Who are we?
 Our lab is one of the world-leading hydrological science bridgeheads, consists of researchers and students with multiple backgrounds (Earth science, civil engineering, geography, spatial information science, computational science, etc.)
 
+All research staff members belong to [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while we also commit to education in the [Department of Civil Engineering](http://www.civil.t.u-tokyo.ac.jp/en/). 
+
 If you are interested in our team, please visit the below pages:
 - [Team member list](./team/)
 - [How to join our team?](./joinus/)

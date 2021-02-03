@@ -11,6 +11,9 @@ permalink: /team/
  **We are  looking for new Postdoc, PhD students, and Master/Bachelor students to join the team** [(see Join Us page)]({{ site.url }}{{ site.baseurl }}/joinus) **!**
 
 ## Staff / Students
+
+All research staff members belong to  [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while students belong to the [Department of Civil Engineering](http://www.civil.t.u-tokyo.ac.jp/en/). 
+
 {% assign number_printed = 0 %}
 
 {% for member in site.data.team_member %}
