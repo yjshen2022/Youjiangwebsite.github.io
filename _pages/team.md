@@ -132,7 +132,7 @@ permalink: /team/
 
 </div>
 
-[List of student thesis](../student_thesis/) (PhD/MA/BA thesis)
+Please also visit the [list of student thesis](../student_thesis/) (PhD/MA/BA thesis)
 
 ## Administrative Support
 Minako Yokoyama (m-yoko [at] iis.u-tokyo.ac.jp) and Yuki Tsukada (tsuka [at] rainbow.iis.u-tokyo.ac.jp) are helping us (and other groups) with administration.

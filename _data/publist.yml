@@ -155,7 +155,7 @@
   dlab: 1
   news2:
 
-## Collaboration work
+### Collaboration work ###
 - ID: C43)
   title: "Global socioeconomic exposure of heat extremes under climate change"
   authors: Chen, J., Y. Liu, T. Pan, P. Ciais, T. Ma, Y. Liu, D. Yamazaki, Q. Ge, and J. Peñuelas
@@ -671,3 +671,92 @@
   dlab: 0
   news2:
 
+
+### Conference Proceeding ###
+
+- ID: P4)
+  title: "High-resolution stream network delineation using digital elevation models: assessing the spatial accuracy"
+  image: 
+  authors: Giuseppe Amatulli​, Sami Domisch, Jens Kiesel, Tushar Sethi, Dai Yamazaki, Peter Raymond
+  description: 
+  link:
+    url: https://peerj.com/preprints/27109/
+    display: Proceedings of Geomorphometry 2018, PeerJ Preprint, doi:10.7287/peerj.preprints.27109v1, Published 11 Aug 2018
+  highlight: 0
+  dlab: 2
+  news2:
+
+- ID: P3)
+  title: "Classification of topography in artificially modified alluvial plains using DEMs"
+  image: 
+  authors: J. Iwahashi, Tk Nakano, D. Yamazaki
+  description: 
+  link:
+    url: https://easychair.org/publications/preprint/9t59
+    display: Proceedings of Geomorphometry 2018, EasyChair Preprint no.136, Published 16 May 2018
+  highlight: 0
+  dlab: 2
+  news2:
+
+- ID: P2) 
+  title: "A simulation study on modifying reservoir operation rules: tradeoffs between flood mitigation and water supply"
+  image: 
+  authors: Cherry M.R. Mateo, Naota Hanasaki, Daisuke Komori, Kei Yoshimura, Masashi Kiguchi, Adisorn Champathong, Dai Yamazaki, Thada Sukhapunnaphan, & Taikan Oki
+  description: 
+  link:
+    url: https://iahs.info/uploads/dms/15613.08-33-40-362-16-H09_2809039_Mateo.pdf
+    display: Proceedings of IAHS-IAPSO-IASPEI Assembly, IAHS Publ. vol.362, pp.33-40
+  highlight: 0
+  dlab: 2
+  news2:
+
+- ID: P1)
+  title: "Toward global-scale data assimilation using SWOT: Requirements for global hydrodynamics models"
+  image: 
+  authors: Dai Yamazaki, Douglas Alsdorf, Shinjiro Kanae, Taikan Oki, & Konstantinos Andreadis
+  description: 
+  link:
+    url: https://ieeexplore.ieee.org/document/6049855?arnumber=6049855&abstractAccess=no&userType=inst
+    display: Proceedings of Geoscience and Remote Sensing Symposium (IGARSS), 2011 IEEE International, pp.3031-3034
+  highlight: 0
+  dlab: 2
+  news2:
+
+
+### Other  ###
+
+- ID: O3)
+  title: "Global flood risk modeling and projections of climate change impacts"
+  image: 
+  authors: Dai Yamazaki, Yukiko Hirabayashi, & Satoshi Watanabe
+  description: 
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119217886.ch11
+    display: AGU Book "Global Flood Hazard" (AGU Wiley), Ch.11, pp.185-203, 2018.
+  highlight: 0
+  dlab: 3
+  news2:
+
+- ID: O2)
+  title: "[Nature News&Views] The dynamics of Earth's Surface Water"
+  image: 
+  authors: D. Yamazaki & M.A. Trigg
+  description: 
+  link:
+    url: http://www.nature.com/nature/journal/v540/n7633/abs/nature21100.html
+    display: Nature, vol.540, pp.348-349, 2016, doi:10.1038/nature21100
+  highlight: 0
+  dlab: 3
+  news2:
+
+- ID: O1)
+  title: "How much do we really know about river flooding? [Science Article for Kids]"
+  image: 
+  authors: M.A. Trigg, C.E. Birch, J.C. Neal, P.D. Bates, A. Smith, C.C. Sampson, D. Yamazaki, Y. Hirabayashi, F. Pappenberger, E. Dutra, P.J. Ward, H.C. Winsemius, P. Salamon, F. Dottori, R. Rudari, M.S. Kappes, A.L. Simpson, G. Hadzilacos and T.J. Fewtrell
+  description: 
+  link:
+    url: http://www.sciencejournalforkids.org/articles/how-much-do-we-really-know-about-river-flooding
+    display: Science Journal for Kids, Nov 2016
+  highlight: 0
+  dlab: 3
+  news2:
