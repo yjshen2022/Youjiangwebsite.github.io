@@ -1,4 +1,16 @@
 ## Yamazaki Lab work
+- ID: Y14)
+  title: "A Framework for Estimating Global-Scale River Discharge by Assimilating Satellite Altimetry"
+  image: 
+  authors: Menaka Revel, Daiki Ikeshima, Dai Yamazaki, Shinjiro Kanae
+  description: 
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876
+    display: Water Resources Research, vol.57(1), e2020WR027876, 2021, DOI 10.1029/2020WR027876
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y13)
   title: "A Physically Based Empirical Localization Method for Assimilating Synthetic SWOT Observations of a Continental‐Scale River: A Case Study in the Congo Basin"
   image: 2019Menaka_LocalPatch.jpg
@@ -6,7 +18,7 @@
   description: 
   link:
     url: https://www.mdpi.com/2073-4441/11/4/829
-    display: Water, vol.11, page.829, 2019, doi:10.3390/w11040829
+    display: Water, vol.11, page.829, 2019, DOI 10.3390/w11040829
   highlight: 1
   dlab: 1
   news2:
@@ -156,6 +168,50 @@
   news2:
 
 ### Collaboration work ###
+- ID: C47)
+  title: "A new vector-based global river network dataset accounting for variable drainage density"
+  authors: Peirong L., M. Pan, E.F. Wood, D. Yamazaki, G.H. Allen
+  description: 
+  link:
+    url: https://www.nature.com/articles/s41597-021-00819-9
+    display:  Scientific Data, vol.8, no.28, 2021, DOI 10.6084/m9.figshare.13377329
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C46)
+  title: "Role of dams in reducing global flood exposure under climate change"
+  authors: Boulange J., N. Hanasaki, D. Yamazaki, Y. Pokhrel
+  description: 
+  link:
+    url: https://www.nature.com/articles/s41467-020-20704-0
+    display:  Nature Communications, vol.12, no.417, 2021, DOI 10.1038/s41467-020-20704-0
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C45)
+  title: "Classification of topography for ground vulnerability assessment of alluvial plains and mountains of Japan using 30m DEM"
+  authors: Iwahashi J., D. Yamazaki, T. Nakano, R. Endo
+  description: 
+  link:
+    url: https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-020-00398-0
+    display:  Progress in Earth and Planetary Science, vol.8(1), pp.1-23. 2021, DOI 10.1186/s40645-020-00398-0
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C44)
+  title: "Ensemble flash flood predictions using a high-resolution nationwide distributed rainfall-runoff model: case study of the heavy rain event of July 2018 and Typhoon Hagibis in 2019"
+  authors: Sayama T., M. Yamada, Y. Sugawara, D. Yamazaki
+  description: 
+  link:
+    url: https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-020-00391-7
+    display:  Progress in Earth and Planetary Science, vol.7, no.75, 2021, DOI 10.1186/s40645-020-00391-7
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C43)
   title: "Global socioeconomic exposure of heat extremes under climate change"
   authors: Chen, J., Y. Liu, T. Pan, P. Ciais, T. Ma, Y. Liu, D. Yamazaki, Q. Ge, and J. Peñuelas
@@ -246,7 +302,7 @@
   description: 
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR026412
-    display: Water Resources Research, vol.47, 2020, e2019WR026412, DOI 10.1029/2019WR026412
+    display: Water Resources Research, vol.56(6), 2020, e2019WR026412, DOI 10.1029/2019WR026412
   highlight: 0
   dlab: 0
   news2:
