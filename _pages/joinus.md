@@ -60,6 +60,8 @@ We also welcome visitors for research collaboration (sabatical, visiting scholar
 JSPS特別研究員のホストは常時受け付けています。ポスドク研究員のポジションがある場合もあるので、興味がある場合は連絡お願いします。
 
 
+
+
 <!--
 
 State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
