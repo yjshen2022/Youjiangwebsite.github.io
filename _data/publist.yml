@@ -168,6 +168,17 @@
   news2:
 
 ### Collaboration work ###
+- ID: C48)
+  title: "Global exposure to flooding from the new CMIP6 climate model projections"
+  authors: Hirabayashi Y., M. Tanoue, O. Sasaki, X. Zhou, D. Yamazaki
+  description: 
+  link:
+    url: https://www.nature.com/articles/s41598-021-83279-w
+    display:  Scientific Report, vol.11, no.3740, 2021, DOI 10.1038/s41598-021-83279-w
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C47)
   title: "A new vector-based global river network dataset accounting for variable drainage density"
   authors: Peirong L., M. Pan, E.F. Wood, D. Yamazaki, G.H. Allen
