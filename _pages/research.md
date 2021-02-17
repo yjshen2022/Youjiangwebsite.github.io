@@ -10,6 +10,8 @@ permalink: /research/
 
 Our research goal is to understand and predict the dynamics of land waters from local to global scales, including its interaction with Earth system and human society. To achieve this goal, we work on various science challenges on global hydrology/hydrodynamics mainly using modelling, remote sensing, and data integration approaches.. 
 
+If you are interested in detail: please also visit the [list of publications](../publications/).
+
 ## Our Products (code & data)
 
 {% include products.html %}
