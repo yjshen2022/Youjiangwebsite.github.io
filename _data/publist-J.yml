@@ -44,7 +44,7 @@
   dlab: 1
 
 - ID: JY3)
-  title: "局所慣性方程式の導入による洪水氾濫計算の安定化と高速化"
+  title: "[研究ノート局所慣性方程式の導入による洪水氾濫計算の安定化と高速化"
   e-title: "Rapid and stable flood inundation modelling using the local inertial equation"
   authors: "山崎大，田中智大，Paul D. Bates"
   link:
@@ -93,8 +93,7 @@
   dlab: 0
 
 - ID: JC16)
-  title: "洪水調節を組み込んだ確率洪水予報システムの構築及び2015年鬼怒川洪水への適用
-花崎梨紗, 石塚悠太, 山崎大, 芳村圭"
+  title: "洪水調節を組み込んだ確率洪水予報システムの構築及び2015年鬼怒川洪水への適用"
   e-title: "Implementing Reservoir Operation In A Probabilistic Flood Forecast System And Its Application To 2015 Kinu River Flood"
   authors: "花崎梨紗, 石塚悠太, 山崎大, 芳村圭"
   link:
@@ -142,7 +141,7 @@
   dlab: 0
 
 - ID: JC10)
-  title: "地表水流れの数値解析技術に関する分野横断的視点から見た特徴と最前線"
+  title: "[総説] 地表水流れの数値解析技術に関する分野横断的視点から見た特徴と最前線"
   e-title: "Interdisciplinary Perspective of Surface Water Flow Numerical Analysis"
   authors: "木村匡臣, 田中智大, 安瀬地一作, 中谷加奈, 山崎大, 吉岡秀和"
   link:
