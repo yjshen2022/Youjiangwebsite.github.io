@@ -10,6 +10,8 @@ permalink: /
 
 Global Hydrodynamics Lab (PI: [Dai Yamazaki](http://hydro.iis.u-tokyo.ac.jp/~yamadai/)) is a part of U-Tokyo [Global Hydrology Group](http://hydro.iis.u-tokyo.ac.jp/) in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/). 
 
+Our lab is U-Tokyo Komaba-2 Research Campus (<a href="https://goo.gl/maps/SNCw9DrqL6Rzs4XM9">Maps</a>, <a href="https://www.iis.u-tokyo.ac.jp/en/access/">Directions</a>)
+
 Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
 
 {% include slider.html %}
