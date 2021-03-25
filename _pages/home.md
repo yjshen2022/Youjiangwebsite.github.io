@@ -39,6 +39,10 @@ Our research acitvity is summarized in:
 - [Publications and outcome](./publications/)
 - [List of student academic thesis](./student_thesis/)
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" />
+
+Group photo in Farewell Gathering @ Komaba Campus (March 2021)
+
 ## (In Japanese)
 こちらは東京大学 [グローバル水文学グループ](http://hydro.iis.u-tokyo.ac.jp/)の一部である山崎研究室（全球地陸水動態研究室）のWebPageです。
 
