@@ -52,7 +52,7 @@ Group photo in Farewell Gathering @ Komaba Campus (March 2021)
 
 **山崎研究室に興味がある研究者・学生の方へ**
 
-より詳しくは[研究紹介ページ](./research/)、 [研究室メンバーリスト](./team/)をご覧ください。山崎研究室に加わりたい場合は[How to join our team?](./joinus/)に説明があります。
+より詳しくは[研究紹介ページ](./research/)、 [研究室メンバーリスト](./team/)をご覧ください。山崎研究室に加わりたい場合は[How to join our team?](./joinus)に説明があります。
 
 **洪水リスク研究に興味がある企業の方へ**
 
