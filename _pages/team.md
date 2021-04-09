@@ -129,7 +129,7 @@ All research staff members belong to  [Institute of Industrial Science](https://
 
 {% for member in site.data.former_student %}
 <div class="col-sm-4 clearfix">
-{{ member.name }}, {{ member.info }}, {{ member.duration }}
+{{ member.name }} ( {{ member.native }} ), {{ member.info }}, {{ member.duration }}
 </div>
 {% endfor %}
 
