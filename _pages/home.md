@@ -6,13 +6,21 @@ sitemap: false
 permalink: /
 ---
 # Welcome!
-**NOTE: Some parts of webpage are still under construction. (Feb2021)**
+#### NEWS: We have Open Campus event on 11-12 June 2021 (Online).
+**6月11-12日にキャンパス公開があり、下記イベントを企画しています。<br>
+ ●公開講義「宇宙から地球を測る」　6月12日(土) 13-14時<br>
+ ●研究室ポスターフラッシュトーク  6月11日(金) 14-15時、6月12日(土) 14-15時<br>
+Zoom URLなど詳細は右側のLab Newsで告知します。**
+
+<p> &nbsp; </p>
 
 Global Hydrodynamics Lab (PI: [Dai Yamazaki](http://hydro.iis.u-tokyo.ac.jp/~yamadai/)) is a part of U-Tokyo [Global Hydrology Group](http://hydro.iis.u-tokyo.ac.jp/) in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/). 
 
 Yamazaki lab is in U-Tokyo Komaba-2 Research Campus (<a href="https://goo.gl/maps/SNCw9DrqL6Rzs4XM9">Map</a>, <a href="https://www.iis.u-tokyo.ac.jp/en/access/">Directions</a>) in central Tokyo.
 
 Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
+
+（ページ下部に日本語情報があります）
 
 {% include slider.html %}
 
@@ -33,6 +41,7 @@ All research staff members belong to [Institute of Industrial Science](https://w
 If you are interested in our team, please visit the below pages:
 - [Team member list](./team/)
 - [How to join our team?](./joinus/)
+- [Promotion (lab highlihgt)](./promotion/)
 
 Our research acitvity is summarized in:
 - [Research targets and methods](./research/)
@@ -52,7 +61,8 @@ Group photo in Farewell Gathering @ Komaba Campus (March 2021)
 
 **山崎研究室に興味がある研究者・学生の方へ**
 
-より詳しくは[研究紹介ページ](./research/)、 [研究室メンバーリスト](./team/)をご覧ください。山崎研究室に加わりたい場合は[How to join our team?](./joinus)に説明があります。
+より詳しくは[研究紹介ページ](./research/)、 [研究室メンバーリスト](./team/)をご覧ください。山崎研究室に加わりたい場合は[How to join our team?](./joinus)に説明があります。<br>
+また、研究室のハイライトを[Promotion](./promotion/)にまとめています。
 
 **洪水リスク研究に興味がある企業の方へ**
 
