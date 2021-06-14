@@ -1,4 +1,40 @@
 ## Yamazaki Lab work
+- ID: Y19)
+  title: "Toward Improved Comparisons Between Land-Surface-Water-Area Estimates From a Global River Model and Satellite Observations"
+  image: 
+  authors: Zhou X., C. Prigent, D. Yamazaki
+  description: 
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR029256
+    display: Water Resources Research, 57, e2020WR029256. (2021), DOI 10.1029/2020WR029256
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y18)
+  title: "Coherent Satellite Monitoring of the Water Cycle Over the Amazon. Part 2: Total Water Storage Change and River Discharge Estimation"
+  image: 
+  authors: Pellet V., F. Aires, D. Yamazaki
+  description: 
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR028648
+    display:  Water Resources Research, 57, e2020WR028648, (2021). DOI 10.1029/2020WR028648
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y17)
+  title: "Coherent satellite monitoring of the water cycle over the Amazon. Part 1: Methodology and initial evaluation. "
+  image: 
+  authors: Pellet V., F. Aires, D. Yamazaki, F. Papa 
+  description: 
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR028647
+    display: Water Resources Research, 57, e2020WR028647 (2021), DOI 10.1029/2020WR028647
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y16)
   title: "Global high-resolution estimation of cropland suitability and its comparative analysis to actual cropland distribution"
   image: 
@@ -10,6 +46,7 @@
   highlight: 0
   dlab: 1
   news2:
+### FY2021
 ### FY2020
 - ID: Y15)
   title: "The uncertainty of flood frequency analyses in hydrodynamic model simulations"
@@ -192,6 +229,62 @@
   news2:
 
 ### Collaboration work ###
+- ID: C53)
+  title: "ECLand: The ECMWF Land Surface Modelling System"
+  authors: Boussetta S, Balsamo G, Arduini G, Dutra E, McNorton J, Choulga M, Agustí-Panareda A, Beljaars A, Wedi N, Munõz-Sabater J, de Rosnay P, Sandu I, Hadade I, Carver G, Mazzetti C, Prudhomme C, Yamazaki D, Zsoter E.
+  description: 
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002434
+    display: Atmosphere. 12(6), 723, 2021; DOI 10.3390/atmos12060723
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C52)
+  title: "A Vector-Based River Routing Model for Earth System Models: Parallelization and Global Applications"
+  authors: Mizukami N., M.P. Clark, S. Gharari, E. Kluzek, M. Pan, P. Lin, H.E. Beck, D. Yamazaki
+  description: 
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002434
+    display:  Journal of Advances in Modeling Earth Systems, 13, e2020MS002434 (2021). DOI 10.1029/2020MS002434
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C51)
+  title: "Potential of a SAR Small-Satellite Constellation for Rapid Monitoring of Flood Extent"
+  authors: Kitajima N., R. Seto, D. Yamazaki, X. Zhou, W. Ma, S. Kanae
+  description: 
+  link:
+    url: https://www.mdpi.com/2072-4292/13/10/1959
+    display:  Remote Sensing, 13(10), 1959, (2021) DOI 10.3390/rs13101959
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C50)
+  title: "Applicability of a nationwide flood forecasting system for Typhoon Hagibis 2019"
+  authors: Ma W., Y. Ishitsuka, A. Takeshima, K. Hibino, D. Yamazaki, K. Yamamoto, M. Kachi, R. Oki, T. Oki, K. Yoshimura 
+  description: 
+  link:
+    url: https://www.nature.com/articles/s41598-021-89522-8
+    display:  Scientific Report 11, 10213 (2021). DOI 10.1038/s41598-021-89522-8
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C49)
+  title: "Bare-Earth DEM Generation in Urban Areas for Flood Inundation Simulation Using Global Digital Elevation Models"
+  authors: Liu Y., P.D. Bates, J.C. Neal, D. Yamazaki
+  description: 
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR028516
+    display:  Water Resources Research, 57, e2020WR028516, (2021), DOI 10.1029/2020WR028516
+  highlight: 0
+  dlab: 0
+  news2:
+### FY2021
+### FY2020
 - ID: C48)
   title: "Global exposure to flooding from the new CMIP6 climate model projections"
   authors: Hirabayashi Y., M. Tanoue, O. Sasaki, X. Zhou, D. Yamazaki

@@ -6,14 +6,6 @@ sitemap: false
 permalink: /
 ---
 # Welcome!
-#### NEWS: We have Open Campus event on 11-12 June 2021 (Online).
-**6月11-12日にキャンパス公開があり、下記イベントを企画しています。<br>
- ●6月12日(土) 13-14時  山崎准教授による公開講義「宇宙から地球を測る」[日本語]<br>
- ● 6月11日(金) 14-15時 研究室ポスターフラッシュトーク[英語]<br>
- ●6月12日(土) 14-15時 研究室ポスターフラッシュトーク[日本語]<br>
-[Google From](https://forms.gle/6t4czsPcR6gU6emT8)から登録するとZoom URLが取得できます**
-
-<p> &nbsp; </p>
 
 Global Hydrodynamics Lab (PI: [Dai Yamazaki](http://hydro.iis.u-tokyo.ac.jp/~yamadai/)) is a part of U-Tokyo [Global Hydrology Group](http://hydro.iis.u-tokyo.ac.jp/) in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/). 
 
