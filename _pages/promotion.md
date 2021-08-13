@@ -18,6 +18,16 @@ Group photo in Farewell Gathering @ Komaba Campus (March 2021)
 
 <p> &nbsp; </p>
 
+#### Yamazaki's Lecture Talk in AOGS2021 (Aug 2021)
+
+Lab PI Yamazaki receied AOGS Kamide Lecture Award (Hydrology Section), and made a lecture talk in AOGS2021 (Virtual, Online).The topic is about the review on recent advanced in global surface water hydrodynamics. The recorded talk (in English) is available on <a href="https://www.youtube.com/watch?v=xUYRr0tX7rk">"YouTube"</a><br>
+AOGS2021にてHydrology SectionのKamide Lecture Awardをいただき記念講演を行いました。 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xUYRr0tX7rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p> &nbsp; </p>
+
+
 #### Yamazaki's talk in public event (Sep 2020)
 
 Lab PI Yamazaki made a talk in IIS UTokyo public event. The recorded talk (in Japanese) is available on <a href="https://live.nicovideo.jp/watch/lv327827607">"Nico Nico Video"</a>
@@ -40,93 +50,9 @@ Top Researchersという最先端研究を紹介するWebメディアに、<a hr
 
 #### Also, we are in the exciting research institute in a great location!
 The official introduction video of IIS UTokyo. Please also visit the <a href="https://www.iis.u-tokyo.ac.jp/ja/about/feature/">institute webpage</a>.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4O3IarsAN1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C-IkHEBd-Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p> &nbsp; </p>
 
 
 
-
-
-
-
-
-
-
-
-<!--
-
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
-
-
-## Leiden
-
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
-
-
-#### Gallery
-(Right-click *'view image'* to see a larger image.)
-{% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/promo/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
-</div>
-{% endif %}
-
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
-
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
-
-
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
-
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>
-
--->
