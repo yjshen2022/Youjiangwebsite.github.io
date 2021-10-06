@@ -40,7 +40,7 @@ Lab PI Yamazaki made a talk in IIS UTokyo public event. The recorded talk (in Ja
 <p> &nbsp; </p>
 
 #### Yamazaki's interview on Top Researchers (Jul 2019)
-Top Researchersという最先端研究を紹介するWebメディアに、<a href="https://top-researchers.com/?p=2801">山崎のインタビュー</a>が掲載されました。山崎研究室の研究内容や、その面白さや応用可能性について、インタビュー形式でまとめられています。
+Top Researchersという最先端研究を紹介するWebメディアに、<a href="https://top-researchers.com/?p=211">山崎のインタビュー</a>が掲載されました。山崎研究室の研究内容や、その面白さや応用可能性について、インタビュー形式でまとめられています。
 
 <a href="https://top-researchers.com/?p=2801">
 <img img src="{{ site.url }}{{ site.baseurl }}/images/picture/TopResearchers.jpg" width="40%"/>
