@@ -13,6 +13,7 @@ Yamazaki lab is in U-Tokyo Komaba-2 Research Campus (<a href="https://goo.gl/map
 
 Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
 
+こちらは東京大学 [グローバル水文学グループ](http://hydro.iis.u-tokyo.ac.jp/)の一部である山崎研究室（全球地陸水動態研究室）のWebPageです。
 （ページ下部に日本語情報があります）
 
 {% include slider.html %}
@@ -46,7 +47,6 @@ Our research acitvity is summarized in:
 Group photo in Farewell Gathering @ Komaba Campus (March 2021)
 
 ## (In Japanese)
-こちらは東京大学 [グローバル水文学グループ](http://hydro.iis.u-tokyo.ac.jp/)の一部である山崎研究室（全球地陸水動態研究室）のWebPageです。
 
 我々のテーマである“全球陸水動態”は、地球全域で陸域の水の流れを研究をします。河川・湖沼・湿地・土壌水分・地下水といった陸水の貯留と輸送の詳細を、ローカルからグローバルまで幅広いスケールで解明することが我々の目的です。陸水そのものだけでなく、関連する降水・蒸発散・沿岸海洋・地球生物科学・気候システムとの相互作用も研究対象しています。地球全域をカバーするために研究手法は主にモデリング・リモートセンシング・データ等融合ですが、全球陸域水動態における重要なプロセスを特定し、またモデルのロバストさを担保するためにも、現地観測などに基づく詳細な水文研究も尊重しています。また、自然の水文循環に加えて、その変動が人間にあたえる影響（洪水・水資源・生態系サービス）の評価にも取り組んでおり、また水文プロセスと人間社会との相互作用も理解したいと考えています。
 
