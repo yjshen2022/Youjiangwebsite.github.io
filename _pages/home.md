@@ -27,6 +27,10 @@ We extensively use modelling, remote sensing, and data integration approaches to
 
 In addition to natural hydrological cycle, we also assess the impact of the terrestrial water variability to the human well-beings (e.g. flood, water resources, ecosystem service), and try to understand the reactions of the society (i.e. water resources and hazard management) and their feedback to the global hydrodynamic system.
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/StudentRoom.jpg" />
+
+Yamazaki Lab workspace in IIS Komaba-2 Campus
+
 ## Who are we?
 Our lab is one of the world-leading hydrological science bridgeheads, consists of researchers and students with multiple backgrounds (Earth science, civil engineering, geography, spatial information science, computational science, etc.)
 
@@ -44,7 +48,7 @@ Our research acitvity is summarized in:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" />
 
-Group photo in Farewell Gathering @ Komaba Campus (March 2021)
+Group photo in Farewell Gathering @ Komaba-2 Campus (March 2021)
 
 ## (In Japanese)
 
