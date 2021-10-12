@@ -14,6 +14,8 @@ You will have the chance to work on frontier sciece challenges on global hydrody
 
 If you are interested in, please contact us by email ( yamadai [at] iis.u-tokyo.ac.jp ). We are happy to chat about potential research projects and research life in our group.
 
+日本語での簡単な説明はページ下部にあります。
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" />
 
 Group photo in Farewell Gathering @ Komaba-2 Campus (March 2021)
