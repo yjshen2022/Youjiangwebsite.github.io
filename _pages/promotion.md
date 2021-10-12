@@ -49,8 +49,14 @@ Top Researchersという最先端研究を紹介するWebメディアに、<a hr
 <p> &nbsp; </p>
 
 #### Also, we are in the exciting research institute in a great location!
-The official introduction video of IIS UTokyo. Please also visit the <a href="https://www.iis.u-tokyo.ac.jp/ja/about/feature/">institute webpage</a>.
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/StudentRoom.jpg" />
+
+Yamazaki Lab workspace in IIS Komaba-2 Campus
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C-IkHEBd-Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The official introduction video of IIS UTokyo. Please also visit the <a href="https://www.iis.u-tokyo.ac.jp/ja/about/feature/">institute webpage</a>.
 
 <p> &nbsp; </p>
 

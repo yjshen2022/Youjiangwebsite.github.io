@@ -52,6 +52,10 @@ If you are Japanese (or Foreigner living in Japan), please take [entrance exam](
 
 We also welcome visitors for research collaboration (sabatical, visiting scholar/student, internship, etc.) Please contact us if you have a plan, and we can discuss about the plan and possibility.
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/StudentRoom.jpg" />
+
+Yamazaki Lab workspace in IIS Komaba-2 Campus
+
 ### Info in Japanese
 
 山崎研究室に修士/博士学生として加わりたい場合は、東京大学工学系研究科 社会基盤学専攻の [大学院入試](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) を受験してください。研究室見学は随時受け付けています。
