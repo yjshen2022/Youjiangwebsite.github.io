@@ -25,6 +25,9 @@ include:
 
 exclude:
   - _site
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
 
 sass:
   sass_dir: _sass
