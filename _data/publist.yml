@@ -1,4 +1,16 @@
 ## Yamazaki Lab work
+- ID: Y20)
+  title: "A hydrography upscaling method for scale-invariant parametrization of distributed hydrological models"
+  image:
+  authors: Dirk Eilander, Willem van Verseveld, Dai Yamazaki, Albrecht Weerts, Hessel C. Winsemius, and Philip J. Ward
+  description:
+  link:
+    url: https://hess.copernicus.org/articles/25/5287/2021/
+    display: Hydrol. Earth Syst. Sci., 25, 5287–5313, 2021, DOI 10.5194/hess-25-5287-2021
+  highlight: 0
+  dlab: 1
+  news2:
+
 - ID: Y19)
   title: "Toward Improved Comparisons Between Land-Surface-Water-Area Estimates From a Global River Model and Satellite Observations"
   image: 
@@ -226,12 +238,56 @@
   description: 
   link:
     url: https://hess.copernicus.org/articles/13/2241/2009/
-    display:  Hydrology and Earth System Science, vol.13, pp.2241-2251, 2009, DOI 10.5194/hess-13-2241-2009
+    display:  Progress in Earth and Planetary Science, 8(1), 1-9. 2009, DOI 10.1186/s40645-021-00431-w
   highlight: 0
   dlab: 1
   news2:
 
 ### Collaboration work ###
+- ID: C57)
+  title: "Modeling Daily Floods in the Lancang-Mekong River Basin Using an Improved Hydrological-Hydrodynamic Model"
+  authors: Jie Wang, Xiaobo Yun, Yadu Pokhrel, Dai Yamazaki, Qiudong Zhao, Aifang Chen, Qiuhong Tang
+  description:
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021WR029734
+    display: Water Resources Research, 57, e2021WR029734. 2021, DOI 10.1029/2021WR029734
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C56)
+  title: "Global Reach-level 3-hourly River Flood Reanalysis (1980-2019)"
+  authors: Yuan Yang, Ming Pan, Peirong Lin, Hylke E. Beck, Zhenzhong Zeng, Dai Yamazaki, Cédric H. David, Hui Lu, Kun Yang, Yang Hong, and Eric F. Wood
+  description:
+  link:
+    url: https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-20-0057.1/BAMS-D-20-0057.1.xml
+    display: Bulletin of the American Meteorological Society, 1-49, 2021, DOI 10.1175/BAMS-D-20-0057.1
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C55)
+  title: "Anthropogenic climate change has changed frequency of past flood during 2010-2013"
+  authors: Yukiko Hirabayashi, Haireti Alifu, Dai Yamazaki, Yukiko Imada, Hideo Shiogama & Yuki Kimura
+  description:
+  link:
+    url: https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-021-00431-w
+    display: Atmosphere. 12(6), 723, 2021; DOI 10.3390/atmos12060723
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C54)
+  title: "Detectability of variation in river flood from satellite images"
+  authors: Yukiko Hirabayashi, Haireti Alifu, Dai Yamazaki, ‪Gennadii Donchyts, Yuki Kimura
+  description:
+  link:
+    url: https://www.jstage.jst.go.jp/article/hrl/15/2/15_37/_article
+    display: Hydrological Research Letters. 15(2), 37-43, 2021, DOI 10.3178/hrl.15.37
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C53)
   title: "ECLand: The ECMWF Land Surface Modelling System"
   authors: Boussetta S, Balsamo G, Arduini G, Dutra E, McNorton J, Choulga M, Agustí-Panareda A, Beljaars A, Wedi N, Munõz-Sabater J, de Rosnay P, Sandu I, Hadade I, Carver G, Mazzetti C, Prudhomme C, Yamazaki D, Zsoter E.
@@ -912,6 +968,29 @@
 
 
 ### Other  ###
+- ID: O5)
+  title: "Digital Elevation Model and Drainage Network Data Sets for Global Flood and Drought Modeling"
+  image:
+  authors: Huan Wu,Jing Tao,Dai Yamazaki,Weitian Chen,Zequn Huang,Chaoqun Li,John Kimball
+  description:
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/9781119427339.ch12
+    display: In AGU Book; Global Drought and Flood (eds H. Wu, D.P. Lettenmaier, Q. Tang and P.J. Ward), 2021, DOI 10.1002/9781119427339.ch12
+    highlight: 0
+  dlab: 3
+  news2:
+
+- ID: O4)
+  title: "Global Flood Models"
+  image:
+  authors: Trigg, M.A., Bernhofen, M., Marechal, D., Alfieri, L., Dottori, F., Hoch, J., Horritt, M., Sampson, C., Smith, A., Yamazaki, D. and Li, H
+  description:
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119427339.ch10
+    display: In AGU Book; Global Drought and Flood (eds H. Wu, D.P. Lettenmaier, Q. Tang and P.J. Ward), 2021, DOI 10.1002/9781119427339.ch10
+    highlight: 0
+  dlab: 3
+  news2:
 
 - ID: O3)
   title: "Global flood risk modeling and projections of climate change impacts"

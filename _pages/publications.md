@@ -13,6 +13,7 @@ For a full publication list, see [below](#full-list) or go to [Google Scholar](h
 
 The list of student thesis (PhD/MA/BA) is available [here](../student_thesis/).
 
+List of awards to lab members are [here](../award/)
 
 ## Highlights
 

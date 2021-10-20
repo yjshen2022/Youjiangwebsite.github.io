@@ -42,6 +42,7 @@ Our research acitvity is summarized in:
 - [Research targets and methods](./research/)
 - [Publications and outcome](./publications/)
 - [List of student academic thesis](./student_thesis/)
+- [List of awards](./award/)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" />
 
