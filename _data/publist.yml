@@ -1,4 +1,6 @@
 ## Yamazaki Lab work
+
+
 - ID: Y20)
   title: "A hydrography upscaling method for scale-invariant parametrization of distributed hydrological models"
   image:
@@ -244,6 +246,18 @@
   news2:
 
 ### Collaboration work ###
+- ID: C58)
+  title: "Development of a coupled simulation framework representing the lake and river continuum of mass and energy (TCHOIR v1.0)"
+  image:
+  authors: Tokuda, D., Kim, H., Yamazaki, D., & Oki, T.
+  description:
+  link:
+    url: https://doi.org/10.5194/gmd-14-5669-2021
+    display: Geosci. Model Dev., 14, 5669–5693, 2021, DOI 10.5194/gmd-14-5669-2021
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C57)
   title: "Modeling Daily Floods in the Lancang-Mekong River Basin Using an Improved Hydrological-Hydrodynamic Model"
   authors: Jie Wang, Xiaobo Yun, Yadu Pokhrel, Dai Yamazaki, Qiudong Zhao, Aifang Chen, Qiuhong Tang
@@ -272,7 +286,7 @@
   description:
   link:
     url: https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-021-00431-w
-    display: Atmosphere. 12(6), 723, 2021; DOI 10.3390/atmos12060723
+    display: Progress in Earth and Planetary Science. 8, 36, 2021; DOI 10.1186/s40645-021-00431-w
   highlight: 0
   dlab: 0
   news2:

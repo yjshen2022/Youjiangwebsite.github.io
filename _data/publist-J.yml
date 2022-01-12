@@ -1,4 +1,40 @@
 ## Yamazaki Lab work
+- ID: JY12)
+  title: "水文地形解析の広域展開 ―大陸から地球規模でのデータ分析― (特集記事 はじめようGIS)"
+  e-title: "Hydro-topography analysis on continental and global scales"
+  authors: "山崎大"
+  description:
+  link:
+    display:  "オペレーションズ・リサーチ, vol.66(12), 828-824, 2021"
+  dlab: 1
+
+- ID: JY11)
+  title: "陸域モデルの土壌水分スキームの高度化と土壌パラメータの水平・鉛直分布の考慮"
+  e-title: "Improvement of soil moisture scheme with horizontal and vertical soil parameter distribution in a land surface model"
+  authors: "浜田 光太郎, 山崎 大, 新田 友子"
+  description:
+  link:
+    display:  "土木学会論文集B1(水工学), vol.77(2), I_229-I_234, 2021"
+  dlab: 1
+
+- ID: JY10)
+  title: "斜面流れを考慮した全球陸域モデルによる丘-谷間水分コントラストの再現"
+  e-title: "Represent hill-valley moisture contrast by land surface model with lateral subsurface flow"
+  authors: "足立 幸太, 山崎 大, 新田 友子"
+  description:
+  link:
+    display:  "土木学会論文集B1(水工学), vol.77(2), I_223-I_228, 2021"
+  dlab: 1
+
+- ID: JY9)
+  title: "物理過程および標高データの違いによる全球河川モデルの感度実験および洪水リスクの変化"
+  e-title: "Sensitivity experiments of global river models to different physical processes and elevation data and changes in flood risk"
+  authors: "山田 利紀, 藤田 凌, 田上 雅浩, 山崎 大, 平林 由希子"
+  description:
+  link:
+    display:  "土木学会論文集G(環境), vol.77(5), I_27-I_32, 2021"
+  dlab: 1
+
 - ID: JY8)
   title: "気温上昇量と極端降雨強度の関係性 -気象観測値とd4PDFを用いた日本域の解析-"
   e-title: "Relatinoship between extreme rainfall intensity and temperature rise derived from observations and d4PDF over Japan"
@@ -68,6 +104,14 @@
   dlab: 1
 
 ## Collaboration work
+- ID: JC20)
+  title: "河川・湖沼を結合した水熱動態モデルによる -全球水資源量評価に向けて"
+  e-title: "Toward the global-scale estimation of water resources with a coupled model framework of hydro- and thermodynamics in rivers and lakes"
+  authors: "徳田 大輔, 金 炯俊, 山崎 大, 沖 大幹"
+  link:
+    display:  "土木学会論文集B1(水工学), vol.77, no.2, I_241-I_246, 2021"
+  dlab: 0
+
 - ID: JC19)
   title: "小型SAR 衛星コンステレーションによる河川氾濫域の高頻度観測の可能性"
   e-title: "Possibility of high-frequency observation of inundation area by small sar satellites constellation"
