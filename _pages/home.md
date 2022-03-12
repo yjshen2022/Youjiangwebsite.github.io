@@ -9,11 +9,6 @@ permalink: /
 
 Global Hydrodynamics Lab (PI: [Dai Yamazaki](http://hydro.iis.u-tokyo.ac.jp/~yamadai/)) is a part of U-Tokyo [Global Hydrology Group](http://hydro.iis.u-tokyo.ac.jp/) in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/). 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" />
-
-Group photo in Farewell Gathering @ Komaba-2 Campus (March 2021)
-
-
 Yamazaki lab is in U-Tokyo Komaba-2 Research Campus (<a href="https://goo.gl/maps/SNCw9DrqL6Rzs4XM9">Map</a>, <a href="https://www.iis.u-tokyo.ac.jp/en/access/">Directions</a>) in central Tokyo.
 
 Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
@@ -21,17 +16,21 @@ Our studies mainly focus on the dynamics of land waters on the global scale, usi
 こちらは東京大学 [グローバル水文学グループ](http://hydro.iis.u-tokyo.ac.jp/)の一部である山崎研究室（全球地陸水動態研究室）のWebPageです。
 （ページ下部に日本語情報があります）
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" />
+
+Group photo in Farewell Gathering @ Komaba-2 Campus (March 2021)
+
 
 ## What is Global Hydrodynamics?
 “Global Hydrodynamics” is the study of the dynamics of terrestrial waters  over the entire Earth.  
-
-{% include slider.html %}
 
 It focuses on the movement and storage of the surface and sub-surface waters at multiple temporal and special scales from local to global, including rivers, lakes, wetland, soil moisture, and groundwater. It also covers their interactions with related earth surface processes, such as precipitation, evaporation, coastal and ocean dynamics, biogeochemistry, climate change.  
 
 We extensively use modelling, remote sensing, and data integration approaches to cover the entire globe, while we also respect in-situ observations to determine important processes in global hydrodynamics and to ensure the robustness of the model conceptualization.  
 
 In addition to natural hydrological cycle, we also assess the impact of the terrestrial water variability to the human well-beings (e.g. flood, water resources, ecosystem service), and try to understand the reactions of the society (i.e. water resources and hazard management) and their feedback to the global hydrodynamic system.
+
+{% include slider.html %}
 
 
 ## Who are we?
