@@ -10,6 +10,7 @@ permalink: /
 Global Hydrodynamics Lab (PI: [Dai Yamazaki](http://hydro.iis.u-tokyo.ac.jp/~yamadai/)) is a part of U-Tokyo [Global Hydrology Group](http://hydro.iis.u-tokyo.ac.jp/) in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/). 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" />
+
 Group photo in Farewell Gathering @ Komaba-2 Campus (March 2021)
 
 
