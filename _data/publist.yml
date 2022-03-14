@@ -1,5 +1,15 @@
 ## Yamazaki Lab work
-
+- ID: Y21)
+  title: "Development of a Reservoir Flood Control Scheme for Global Flood Models"
+  image: 2022Hanazaki_Reservoir.jpg
+  authors: Risa Hanazaki, Dai Yamazaki, Kei Yoshimura
+  description:
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002944
+    display: Journal of Advances in Modeling Earth Systems, 14(3), e2021MS002944, 2022, DOI 10.1029/2021MS002944
+  highlight: 1
+  dlab: 1
+  news2:
 
 - ID: Y20)
   title: "A hydrography upscaling method for scale-invariant parametrization of distributed hydrological models"
@@ -245,7 +255,33 @@
   dlab: 1
   news2:
 
+######################################################################################
 ### Collaboration work ###
+
+- ID: C60)
+  title: "The importance of hydrology in routing terrestrial carbon to the atmosphere via global streams and rivers"
+  image:
+  authors: Shaoda Liu, Catherine Kuhn, Giuseppe Amatulli, Kelly Aho, David E. Butman, George H. Allen, Peirong Lin, Ming Pan, Dai Yamazaki, Craig Brinkerhoff, Colin Gleason, Xinghui Xia, Peter A. Raymond
+  description:
+  link:
+    url: https://doi.org/10.1073/pnas.2106322119
+    display: Proceeding of National Academy of Science, 119(11), e2106322119, 2022, DOI 10.1073/pnas.2106322119
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C59)
+  title: "Quantification of impacts between 1.5 and 4 °C of global warming on flooding risks in six countries"
+  image:
+  authors: Yi He, Desmond Manful, Rachel Warren, Nicole Forstenhäusler, Timothy J. Osborn, Jeff Price, Rhosanna Jenkins, Craig Wallace & Dai Yamazaki
+  description:
+  link:
+    url: https://doi.org/10.1007/s10584-021-03289-5
+    display: Climatic Change, 170, 15, 2022, DOI 10.1007/s10584-021-03289-5
+  highlight: 0
+  dlab: 0
+  news2:
+
 - ID: C58)
   title: "Development of a coupled simulation framework representing the lake and river continuum of mass and energy (TCHOIR v1.0)"
   image:
