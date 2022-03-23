@@ -13,7 +13,7 @@ Yamazaki lab is in U-Tokyo Komaba-2 Research Campus (<a href="https://goo.gl/map
 
 Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
 
-こちらは東京大学 [グローバル水文学グループ](http://hydro.iis.u-tokyo.ac.jp/)の一部である山崎研究室（全球地陸水動態研究室）のWebPageです。
+東京大学 [グローバル水文学グループ](http://hydro.iis.u-tokyo.ac.jp/)の一部である山崎研究室（全球地陸水動態研究室）のWebPageです。
 （ページ下部に日本語情報があります）
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" />
