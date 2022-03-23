@@ -4,8 +4,8 @@
   e-title: "Importance of two-way communication with users for effective utilization of ensemble flood forecast information"
   authors: "渡辺恵, 伊藤 舜将, 馬 文超, 山崎 大"
   description:
-  link: https://www.jstage.jst.go.jp/article/jjshwr/35/2/35_104/_article/-char/ja
-    display:  "水文・水資源学会誌, vol.35(2), 104-121, 2022"
+  link: 
+    display: "水文・水資源学会誌, vol.35(2), 104-121, 2022"
   dlab: 1
 
 - ID: JY12)
@@ -14,7 +14,7 @@
   authors: "山崎大"
   description:
   link:
-    display:  "オペレーションズ・リサーチ, vol.66(12), 828-824, 2021"
+    display: "オペレーションズ・リサーチ, vol.66(12), 828-824, 2021"
   dlab: 1
 
 - ID: JY11)
