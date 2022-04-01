@@ -4,8 +4,9 @@
   e-title: "Importance of two-way communication with users for effective utilization of ensemble flood forecast information"
   authors: "渡辺恵, 伊藤 舜将, 馬 文超, 山崎 大"
   description:
-  link: 
-    display: "水文・水資源学会誌, vol.35(2), 104-121, 2022"
+  link:
+    url: "https://doi.org/10.3178/jjshwr.35.104"
+    display: "水文・水資源学会誌, vol.35(2), 104-121, 2022, DOI: 10.3178/jjshwr.35.104"
   dlab: 1
 
 - ID: JY12)
@@ -114,11 +115,13 @@
 
 ## Collaboration work
 - ID: JC21)
+
   title: "日本全域分布型水文モデルへの河道測量横断面反映手法の開発と水位再現性の検証"
   e-title: "Development of methodology for introducing surveyed river cross-sections into nationwide distributed hydrological model throughout Japan, and its effect on water level prediction accuracy"
   authors: "山田 真史, 佐山 敬洋, 山崎 大, 渡辺 恵"
   link:
-    display:  "土木学会論文集B1(水工学), 78(1), 7-22, 2022"
+    url: https://doi.org/10.2208/jscejhe.78.1_7
+    display:  "土木学会論文集B1(水工学), 78(1), 7-22, 2022, DOI 10.2208/jscejhe.78.1_7"
   dlab: 0
   
 - ID: JC20)
