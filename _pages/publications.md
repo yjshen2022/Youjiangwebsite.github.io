@@ -96,7 +96,7 @@ List of awards to lab members are [here](../award/)
 
 {% if publi.e-title == empty %}
 <b> {{ publi.ID }} {{ publi.title }} </b><br /><em> {{ publi.authors }} </em><br />
-<a>{{ publi.link.display }}</a>
+<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% else %}
 <b> {{ publi.ID }} {{ publi.title }} </b><br />{{ publi.e-title }}<br /><em> {{ publi.authors }} </em><br />
 <a>{{ publi.link.display }}</a>
