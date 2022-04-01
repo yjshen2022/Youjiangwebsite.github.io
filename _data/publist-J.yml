@@ -113,6 +113,14 @@
   dlab: 1
 
 ## Collaboration work
+- ID: JC21)
+  title: "日本全域分布型水文モデルへの河道測量横断面反映手法の開発と水位再現性の検証"
+  e-title: "Development of methodology for introducing surveyed river cross-sections into nationwide distributed hydrological model throughout Japan, and its effect on water level prediction accuracy"
+  authors: "山田 真史, 佐山 敬洋, 山崎 大, 渡辺 恵"
+  link:
+    display:  "土木学会論文集B1(水工学), 78(1), 7-22, 2022"
+  dlab: 0
+  
 - ID: JC20)
   title: "河川・湖沼を結合した水熱動態モデルによる -全球水資源量評価に向けて"
   e-title: "Toward the global-scale estimation of water resources with a coupled model framework of hydro- and thermodynamics in rivers and lakes"
