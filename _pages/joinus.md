@@ -10,7 +10,7 @@ permalink: /joinus/
 
 We are always looking for new group members with passion, talent and grit. If you love nature and the Earth and want to understand it with data and model, please consider to join us!
 
-You will have the chance to work on frontier sciece challenges on global hydrodynamics, conbining the model, remote sensing and data integration approach. We are happy to work with you to understand, describe and predict the dynamics of land waters accross various spacial and temporal scales.
+You will have the chance to work on frontier science challenges on global hydrodynamics, combining the model, remote sensing and data integration approach. We are happy to work with you to understand, describe and predict the dynamics of land waters across various spaiial and temporal scales.
 
 If you are interested in, please contact us by email ( yamadai [at] iis.u-tokyo.ac.jp ). We are happy to chat about potential research projects and research life in our group.
 
@@ -22,7 +22,7 @@ Group photo in Farewell Gathering @ Komaba-2 Campus (March 2021)
 
 ## Current open positions
 
-**Note: We currently don't have funding for additional Postdoc and PhD positions. However, we can welcome Postdoc if you have a fellowship. Stuents must have a scholarship or be self-funded. We are happy to support you after you apply to our group.**
+**Note: We currently don't have funding for additional Postdoc and PhD positions. However, we can welcome Postdoc if you have a fellowship. Students must have a scholarship or be self-funded. We are happy to support you after you apply to our group.**
 
 ### Application to Postdoc position
 
@@ -32,17 +32,17 @@ If you want to join us as a posdoc, please email us first (we sometimes have pot
 
 **For Japanese postdoc: Please consider applying to [JSPS Postdoctoral Fellowship](https://www.jsps.go.jp/j-pd/).** Please contact to us in advance if you are applying for the fellowship.
 
-### Application to PhD and Master cources
+### Application to PhD and Master courses
 If you are interested in working with us as a PhD or master student, please consider apply to the [Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo](http://www.civil.t.u-tokyo.ac.jp/en/) or to the [Graduate Program of Environmental Sciences (Grad School of Arts and Sciences)](https://gpes.c.u-tokyo.ac.jp/index.html).
 
-#### International Student Program at Dpt Civil Enginering
+#### International Student Program at Dpt. Civil Engineering
 
 If you are non-Japanese and living outside in Japan, please apply to the international scholarship program of Department of Civil Engineering through [FSO (Foreign Student Office)](http://www.civil.t.u-tokyo.ac.jp/en/admission/). The information on applicable scholarships and application timings are shown in the FSO webpage. Typical examples of applicable scholarships are:
 
-- MEXT scholarship (University Reccomedation): Apply through FSO
-- MEXT scholarship (Embassy Reccomedation): Apply throuth Japanese Embathy in your country.
+- MEXT scholarship (University Recommendation): Apply through FSO
+- MEXT scholarship (Embassy Recommendation): Apply through Japanese Embassy in your country.
 - CSC scholarship (Chinese only): Apply through FSO, and approval by CSC.
-- Other external scholarships : Please contact me if you want to join us with an external schlarship (or as self funded student).
+- Other external scholarships : Please contact me if you want to join us with an external scholarship (or as self-funded student).
 
 #### Entrance exam to Dpt. Civil Engineering.
 
@@ -50,12 +50,12 @@ If you are Japanese (or Foreigner living in Japan), please take [entrance exam](
 
 #### Graduate Program of Environmental Sciences in Grad School of Art and Science.
 
-We can also take students from GPES (Graduate School of Environmenal Sciences in Grad School of Art and Science). [Application information to GPES program is available here](https://gpes.c.u-tokyo.ac.jp/how-to-apply/index.html).
+We can also take students from GPES (Graduate School of Environmental Sciences in Grad School of Art and Science). [Application information to GPES program is available here](https://gpes.c.u-tokyo.ac.jp/how-to-apply/index.html).
 
 
-### Visitor for collaborative reseach
+### Visitor for collaborative research
 
-We also welcome visitors for research collaboration (sabatical, visiting scholar/student, internship, etc.) Please contact us if you have a plan, and we can discuss about the plan and possibility.
+We also welcome visitors for research collaboration (sabbatical, visiting scholar/student, internship, etc.) Please contact us if you have a plan, and we can discuss about the plan and possibility.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/StudentRoom.jpg" />
 
@@ -63,7 +63,7 @@ Yamazaki Lab workspace in IIS Komaba-2 Campus
 
 ### Info in Japanese
 
-山崎研究室に修士/博士学生として加わりたい場合は、東京大学工学系研究科 社会基盤学専攻の [大学院入試を受験](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) するか、総合文化研究科 国際環境学プログラムに[出願](https://gpes.c.u-tokyo.ac.jp/how-to-apply/index.html)してください。研究室見学は随時受け付けています。
+山崎研究室に修士/博士学生として加わりたい場合は、**工学系研究科 社会基盤学専攻**の [大学院入試を受験](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) するか、**総合文化研究科 国際環境学プログラム**に[出願](https://gpes.c.u-tokyo.ac.jp/how-to-apply/index.html)してください。研究室見学は随時受け付けています。
 
 学部生として卒論研究を行いたい場合は、社会基盤学科の水圏環境グループから研究室に加わることができます。
 

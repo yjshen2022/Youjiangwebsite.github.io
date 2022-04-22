@@ -12,7 +12,7 @@ permalink: /team/
 
 ## Staff / Students
 
-All research staff members belong to  [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while students belong to the [Department of Civil Engineering](http://www.civil.t.u-tokyo.ac.jp/en/). 
+All research staff members belong to  [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while students belong to the [Department of Civil Engineering](http://www.civil.t.u-tokyo.ac.jp/en/) or [Grad Program for Environmental Sciences: GPES](https://gpes.c.u-tokyo.ac.jp/index.html).
 
 {% assign number_printed = 0 %}
 

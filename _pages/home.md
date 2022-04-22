@@ -22,7 +22,7 @@ Group photo in Farewell Gathering @ Komaba-2 Campus (March 2022)
 
 
 ## What is Global Hydrodynamics?
-“Global Hydrodynamics” is the study of the dynamics of terrestrial waters  over the entire Earth.  
+“Global Hydrodynamics” is the study of the dynamics of terrestrial waters over the entire Earth.  
 
 It focuses on the movement and storage of the surface and sub-surface waters at multiple temporal and special scales from local to global, including rivers, lakes, wetland, soil moisture, and groundwater. It also covers their interactions with related earth surface processes, such as precipitation, evaporation, coastal and ocean dynamics, biogeochemistry, climate change.  
 
@@ -36,14 +36,14 @@ In addition to natural hydrological cycle, we also assess the impact of the terr
 ## Who are we?
 Our lab is one of the world-leading hydrological science bridgeheads, consists of researchers and students with multiple backgrounds (Earth science, civil engineering, geography, spatial information science, computational science, etc.)
 
-All research staff members belong to [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while we also commit to education in the [Department of Civil Engineering (Grad School of Envineering)](http://www.civil.t.u-tokyo.ac.jp/en/) and in the [Graduate Program of Environmental Sciences (Grad School of Arts and Sciences)](https://gpes.c.u-tokyo.ac.jp/index.html).
+All research staff members belong to [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while we also commit to education in the [Department of Civil Engineering (Grad School of Engineering)](http://www.civil.t.u-tokyo.ac.jp/en/) and in the [Graduate Program of Environmental Sciences (Grad School of Arts and Sciences)](https://gpes.c.u-tokyo.ac.jp/index.html).
 
 If you are interested in our team, please visit the below pages:
 - [Team member list](./team/)
 - [How to join our team?](./joinus/)
-- [Promotion (lab highlihgt)](./promotion/)
+- [Promotion (lab highlight)](./promotion/)
 
-Our research acitvity is summarized in:
+Our research activity is summarized in:
 - [Research targets and methods](./research/)
 - [Publications and outcome](./publications/)
 - [List of student academic thesis](./student_thesis/)
@@ -52,18 +52,21 @@ Our research acitvity is summarized in:
 
 ## (In Japanese)
 
-我々のテーマである“全球陸水動態”は、地球全域で陸域の水の流れを研究をします。河川・湖沼・湿地・土壌水分・地下水といった陸水の貯留と輸送の詳細を、ローカルからグローバルまで幅広いスケールで解明することが我々の目的です。陸水そのものだけでなく、関連する降水・蒸発散・沿岸海洋・地球生物科学・気候システムとの相互作用も研究対象しています。地球全域をカバーするために研究手法は主にモデリング・リモートセンシング・データ等融合ですが、全球陸域水動態における重要なプロセスを特定し、またモデルのロバストさを担保するためにも、現地観測などに基づく詳細な水文研究も尊重しています。また、自然の水文循環に加えて、その変動が人間にあたえる影響（洪水・水資源・生態系サービス）の評価にも取り組んでおり、また水文プロセスと人間社会との相互作用も理解したいと考えています。
+我々のテーマである“全球陸水動態”は、地球全域で陸域の水の流れを研究します。河川・湖沼・湿地・土壌水分・地下水といった陸水の貯留と輸送の詳細を、ローカルからグローバルまで幅広いスケールで解明することが我々の目的です。陸水そのものだけでなく、関連する降水・蒸発散・沿岸海洋・地球生物科学・気候システムとの相互作用も研究対象にしています。地球全域をカバーするために研究手法は主にモデリング・リモートセンシング・データ等融合ですが、全球陸域水動態における重要なプロセスを特定し、またモデルのロバストさを担保するためにも、現地観測などに基づく詳細な水文研究も尊重しています。また、自然の水文循環に加えて、その変動が人間にあたえる影響（洪水・水資源・生態系サービス）の評価にも取り組んでおり、また水文プロセスと人間社会との相互作用も理解したいと考えています。
 
-研究内容は、地球システム科学・土木工学・地理学・空間情報学・計算機科学など様々な分野にまたがり、研究スタッフ・在籍学生・外部の共同研究チームはとても多様なバックグラウンドをもっています。本研究室の教員と研究員は[東大生研](https://www.iis.u-tokyo.ac.jp/)を本拠地としており、学生[工学系研究科 社会基盤学専攻](http://www.civil.t.u-tokyo.ac.jp/) または[総合文化研究科 国際環境学プログラム(GPES)](https://gpes.c.u-tokyo.ac.jp/index.html)に所属しています。
+研究内容は、地球システム科学・土木工学・地理学・空間情報学・計算機科学など様々な分野にまたがり、研究スタッフ・在籍学生・外部の共同研究チームはとても多様なバックグラウンドをもっています。本研究室の教員と研究員は[東大生研](https://www.iis.u-tokyo.ac.jp/)を本拠地としており、学生は[工学系研究科 社会基盤学専攻](http://www.civil.t.u-tokyo.ac.jp/) または[総合文化研究科 国際環境学プログラム(GPES)](https://gpes.c.u-tokyo.ac.jp/index.html)に所属しています。
 
 **山崎研究室に興味がある研究者・学生の方へ**
 
-より詳しくは[研究紹介ページ](./research/)、 [研究室メンバーリスト](./team/)をご覧ください。山崎研究室に加わりたい場合は[How to join our team?](./joinus)に説明があります。<br>
+より詳しくは[研究紹介ページ](./research/)、 [研究室メンバーリスト](./team/)をご覧ください。山崎研究室に加わりたい場合は[How to join our team?](./joinus/)に説明があります。<br>
 また、研究室のハイライトを[Promotion](./promotion/)にまとめています。
+具体的な研究内容と成果は、学術論文リストや学位論文リストを見てください。
+- [論文などの業績](./publications/)
+- [学生の学位論文一覧](./student_thesis/)
 
 **洪水リスク研究に興味がある企業の方へ**
 
 産学連携で洪水リスクの理解と低減に取り組むための情報交換と議論の場として「洪水リスク研究会」を開催しております。詳しくは下記をご覧ください。
-- [洪水リスク研究会　説明PDF](http://www.iis.u-tokyo.ac.jp/shourei/ResearchCommitte/RC_gazou/rc2021/2021RC-98.pdf)
+- [洪水リスク研究会　説明PDF](http://www.iis.u-tokyo.ac.jp/shourei/ResearchCommitte/RC_gazou/rc2022/2022RC-98.pdf)
 - 参加方法については、[生産技術研究奨励会のWebPage](http://www.iis.u-tokyo.ac.jp/shourei/ResearchCommitte/rc-index.html)をご確認ください。
 
