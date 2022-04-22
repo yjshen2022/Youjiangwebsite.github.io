@@ -36,7 +36,7 @@ In addition to natural hydrological cycle, we also assess the impact of the terr
 ## Who are we?
 Our lab is one of the world-leading hydrological science bridgeheads, consists of researchers and students with multiple backgrounds (Earth science, civil engineering, geography, spatial information science, computational science, etc.)
 
-All research staff members belong to [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while we also commit to education in the [Department of Civil Engineering](http://www.civil.t.u-tokyo.ac.jp/en/). 
+All research staff members belong to [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while we also commit to education in the [Department of Civil Engineering (Grad School of Envineering)](http://www.civil.t.u-tokyo.ac.jp/en/) and in the [Graduate Program of Environmental Sciences (Grad School of Arts and Sciences)](https://gpes.c.u-tokyo.ac.jp/index.html).
 
 If you are interested in our team, please visit the below pages:
 - [Team member list](./team/)
@@ -54,7 +54,7 @@ Our research acitvity is summarized in:
 
 我々のテーマである“全球陸水動態”は、地球全域で陸域の水の流れを研究をします。河川・湖沼・湿地・土壌水分・地下水といった陸水の貯留と輸送の詳細を、ローカルからグローバルまで幅広いスケールで解明することが我々の目的です。陸水そのものだけでなく、関連する降水・蒸発散・沿岸海洋・地球生物科学・気候システムとの相互作用も研究対象しています。地球全域をカバーするために研究手法は主にモデリング・リモートセンシング・データ等融合ですが、全球陸域水動態における重要なプロセスを特定し、またモデルのロバストさを担保するためにも、現地観測などに基づく詳細な水文研究も尊重しています。また、自然の水文循環に加えて、その変動が人間にあたえる影響（洪水・水資源・生態系サービス）の評価にも取り組んでおり、また水文プロセスと人間社会との相互作用も理解したいと考えています。
 
-研究内容は、地球システム科学・土木工学・地理学・空間情報学・計算機科学など様々な分野にまたがり、研究スタッフ・在籍学生・外部の共同研究チームはとても多様なバックグラウンドをもっています。本研究室の教員と研究員は[東大生研](https://www.iis.u-tokyo.ac.jp/)を本拠地としており、学生の大部分は[社会基盤学専攻](http://www.civil.t.u-tokyo.ac.jp/)に所属しています。
+研究内容は、地球システム科学・土木工学・地理学・空間情報学・計算機科学など様々な分野にまたがり、研究スタッフ・在籍学生・外部の共同研究チームはとても多様なバックグラウンドをもっています。本研究室の教員と研究員は[東大生研](https://www.iis.u-tokyo.ac.jp/)を本拠地としており、学生[工学系研究科 社会基盤学専攻](http://www.civil.t.u-tokyo.ac.jp/) または[総合文化研究科 国際環境学プログラム(GPES)](https://gpes.c.u-tokyo.ac.jp/index.html)に所属しています。
 
 **山崎研究室に興味がある研究者・学生の方へ**
 

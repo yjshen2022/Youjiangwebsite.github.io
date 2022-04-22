@@ -3,7 +3,7 @@ title: "Yamazaki Lab - Join Us"
 layout: pagelay
 excerpt: "Join Us"
 sitemap: false
-permalink: /joinus
+permalink: /joinus/
 ---
 
 # How to join us?
@@ -33,20 +33,25 @@ If you want to join us as a posdoc, please email us first (we sometimes have pot
 **For Japanese postdoc: Please consider applying to [JSPS Postdoctoral Fellowship](https://www.jsps.go.jp/j-pd/).** Please contact to us in advance if you are applying for the fellowship.
 
 ### Application to PhD and Master cources
-If you are interested in working with us as a PhD or master student, please apply to the [Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo](http://www.civil.t.u-tokyo.ac.jp/en/).
+If you are interested in working with us as a PhD or master student, please consider apply to the [Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo](http://www.civil.t.u-tokyo.ac.jp/en/) or to the [Graduate Program of Environmental Sciences (Grad School of Arts and Sciences)](https://gpes.c.u-tokyo.ac.jp/index.html).
 
-#### International Student Program
+#### International Student Program at Dpt Civil Enginering
 
-If you are non-Japanese and living outside in Japan, please apply to the international scholarship progra of Department of Civil Engineering through [FSO (Foreign Student Office)](http://www.civil.t.u-tokyo.ac.jp/en/admission/). The information on applicable scholarships and application timings are shown in the FSO webpage. Typical examples of applicable scholarships are:
+If you are non-Japanese and living outside in Japan, please apply to the international scholarship program of Department of Civil Engineering through [FSO (Foreign Student Office)](http://www.civil.t.u-tokyo.ac.jp/en/admission/). The information on applicable scholarships and application timings are shown in the FSO webpage. Typical examples of applicable scholarships are:
 
 - MEXT scholarship (University Reccomedation): Apply through FSO
 - MEXT scholarship (Embassy Reccomedation): Apply throuth Japanese Embathy in your country.
 - CSC scholarship (Chinese only): Apply through FSO, and approval by CSC.
-- Other external scholarships: Please contuct as if you want to join us with an external schlarship.
+- Other external scholarships : Please contact me if you want to join us with an external schlarship (or as self funded student).
 
-#### Entrance exam to Grad School
+#### Entrance exam to Dpt. Civil Engineering.
 
 If you are Japanese (or Foreigner living in Japan), please take [entrance exam](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) of Graduate School of Engineering, The University of Tokyo. The entrance exam is held in late August every year. For detailed information, please check the UT-Civil entrance exam page.
+
+#### Graduate Program of Environmental Sciences in Grad School of Art and Science.
+
+We can also take students from GPES (Graduate School of Environmenal Sciences in Grad School of Art and Science). [Application information to GPES program is available here](https://gpes.c.u-tokyo.ac.jp/how-to-apply/index.html).
+
 
 ### Visitor for collaborative reseach
 
@@ -58,7 +63,7 @@ Yamazaki Lab workspace in IIS Komaba-2 Campus
 
 ### Info in Japanese
 
-山崎研究室に修士/博士学生として加わりたい場合は、東京大学工学系研究科 社会基盤学専攻の [大学院入試](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) を受験してください。研究室見学は随時受け付けています。
+山崎研究室に修士/博士学生として加わりたい場合は、東京大学工学系研究科 社会基盤学専攻の [大学院入試を受験](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) するか、総合文化研究科 国際環境学プログラムに[出願](https://gpes.c.u-tokyo.ac.jp/how-to-apply/index.html)してください。研究室見学は随時受け付けています。
 
 学部生として卒論研究を行いたい場合は、社会基盤学科の水圏環境グループから研究室に加わることができます。
 
