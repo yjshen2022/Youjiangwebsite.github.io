@@ -77,24 +77,30 @@ List of awards to lab members are [here](../award/)
 {% for publi in site.data.publist-J %}
 {% if publi.dlab == 1 %}
 
-{% if publi.e-title == empty %}
-<b> {{ publi.ID }} {{ publi.title }} </b><br /><em> {{ publi.authors }} </em><br />
-{% else %}
 <b> {{ publi.ID }} {{ publi.title }} </b><br />{{ publi.e-title }}<br /><em> {{ publi.authors }} </em><br />
-{% endif %}
-
-{% if publi.link.url == empty %}
-{{ publi.link.display }}
-{% else %}
 <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-{% endif %}
 
 {% endif %}
 {% endfor %}
 
 <p> &nbsp; </p>
 
+
 #### -- Collaboration work
+
+{% for publi in site.data.publist-J %}
+{% if publi.dlab == 0 %}
+
+<b> {{ publi.ID }} {{ publi.title }} </b><br />{{ publi.e-title }}<br /><em> {{ publi.authors }} </em><br />
+<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
+<p> &nbsp; </p>
+
+<!--
+
 {% for publi in site.data.publist-J %}
 {% if publi.dlab == 0 %}
 
@@ -115,3 +121,4 @@ List of awards to lab members are [here](../award/)
 {% endif %}
 {% endfor %}
 
+-->
