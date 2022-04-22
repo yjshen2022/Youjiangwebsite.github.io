@@ -82,7 +82,12 @@ List of awards to lab members are [here](../award/)
 {% else %}
 <b> {{ publi.ID }} {{ publi.title }} </b><br />{{ publi.e-title }}<br /><em> {{ publi.authors }} </em><br />
 {% endif %}
+
+{% if publi.link.url == empty %}
+{{ publi.link.display }}
+{% else %}
 <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
 
 {% endif %}
 {% endfor %}
@@ -98,7 +103,12 @@ List of awards to lab members are [here](../award/)
 {% else %}
 <b> {{ publi.ID }} {{ publi.title }} </b><br />{{ publi.e-title }}<br /><em> {{ publi.authors }} </em><br />
 {% endif %}
+
+{% if publi.link.url == empty %}
+{{ publi.link.display }}
+{% else %}
 <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
 
 {% endif %}
 
