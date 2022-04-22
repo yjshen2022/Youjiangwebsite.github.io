@@ -35,7 +35,6 @@ List of awards to lab members are [here](../award/)
 
 <p> &nbsp; </p>
 
-
 ### == Original Papers (collaboration, reviewed) ==
 
 {% for publi in site.data.publist %}
@@ -74,53 +73,29 @@ List of awards to lab members are [here](../award/)
 
 ### == Publications in Japanese Journal ==
 #### -- Research mainly lead by Yamazaki Lab
+
 {% for publi in site.data.publist-J %}
 {% if publi.dlab == 1 %}
 
-<b> {{ publi.ID }} {{ publi.title }} </b><br />{{ publi.e-title }}<br /><em> {{ publi.authors }} </em><br />
-<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% if publi.e-title == empty %} <b> {{ publi.ID }} {{ publi.title }} </b><br> {% else %} <b> {{ publi.ID }} {{ publi.title }} </b><br>{{ publi.e-title }}<br> {% endif %}
+<em> {{ publi.authors }} </em><br>
+{% if publi.link.url == empty %} <a>{{ publi.link.display }} </a>{% else %} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> {% endif %}
 
 {% endif %}
 {% endfor %}
 
 <p> &nbsp; </p>
-
 
 #### -- Collaboration work
 
-<!--
-
-
 {% for publi in site.data.publist-J %}
 {% if publi.dlab == 0 %}
 
-<b> {{ publi.ID }} {{ publi.title }} </b><br />{{ publi.e-title }}<br /><em> {{ publi.authors }} </em><br />
-<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% if publi.e-title == empty %} <b> {{ publi.ID }} {{ publi.title }} </b><br> {% else %} <b> {{ publi.ID }} {{ publi.title }} </b><br>{{ publi.e-title }}<br> {% endif %}
+<em> {{ publi.authors }} </em><br>
+{% if publi.link.url == empty %} <a>{{ publi.link.display }} </a>{% else %} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> {% endif %}
 
 {% endif %}
 {% endfor %}
 
 <p> &nbsp; </p>
-
-
-{% for publi in site.data.publist-J %}
-{% if publi.dlab == 0 %}
-
-{% if publi.e-title == empty %}
-<b> {{ publi.ID }} {{ publi.title }} </b><br /><em> {{ publi.authors }} </em><br />
-{% else %}
-<b> {{ publi.ID }} {{ publi.title }} </b><br />{{ publi.e-title }}<br /><em> {{ publi.authors }} </em><br />
-{% endif %}
-
-{% if publi.link.url == empty %}
-{{ publi.link.display }}
-{% else %}
-<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-{% endif %}
-
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
--->
