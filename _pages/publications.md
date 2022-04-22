@@ -88,6 +88,9 @@ List of awards to lab members are [here](../award/)
 
 #### -- Collaboration work
 
+<!--
+
+
 {% for publi in site.data.publist-J %}
 {% if publi.dlab == 0 %}
 
@@ -99,7 +102,6 @@ List of awards to lab members are [here](../award/)
 
 <p> &nbsp; </p>
 
-<!--
 
 {% for publi in site.data.publist-J %}
 {% if publi.dlab == 0 %}
