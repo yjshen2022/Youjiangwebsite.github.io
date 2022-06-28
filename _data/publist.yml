@@ -1,4 +1,28 @@
 ## Yamazaki Lab work
+- ID: Y24)
+  title: "Sensitivity of subregional distribution of socioeconomic conditions to the global assessment of water scarcity"
+  image:
+  authors: "RZhou, X., Revel, M., Modi, P., Shiozawa, T., & Yamazaki, D."
+  description:
+  link:
+    url: https://doi.org/10.1038/s43247-022-00475-w
+    display: "Commun Earth Environ 3, 144, DOI:10.1038/s43247-022-00475-w"
+  highlight: 0
+  dlab: 1
+  news2:
+
+- ID: Y23)
+  title: "Correction of river bathymetry parameters using the stage–discharge rating curve"
+  image:
+  authors: "Prakat Modi, Naota Hanasaki, Dai Yamazaki, Julien E.S. Boulange & Taikan Oki "
+  description:
+  link:
+    url: https://doi.org/10.1029/2021WR031226
+    display: "Water Resources Research, 58, e2021WR031226, DOI:10.1029/2021WR031226"
+  highlight: 0
+  dlab: 1
+  news2:
+
 # FY2022
 # FY2021
 - ID: Y22)
@@ -271,7 +295,56 @@
 
 ######################################################################################
 ### Collaboration work ###
+- ID: C64)
+  title: "Inundation prediction in tropical wetlands from JULES-CaMa-Flood global land surface simulations"
+  image:
+  authors: "JT.R. Marthews, S.J. Dadson, D.B. Clark, E.M. Blyth, G.D. Hayman, D. Yamazaki, O.R.E. Becher,  A. Martinez de la Torre, C. Prigent, C. Jimenez"
+  description:
+  link:
+    url: https://doi.org/10.5194/hess-26-3151-2022
+    display: "Hydrology and Earth System Sciences, 26(12), 3151-3175, 2022, DOI 10.5194/hess-26-3151-2022"
+  highlight: 0
+  dlab: 0
+  news2:
 
+- ID: C63)
+  title: "Flood inundation in the Lancang-Mekong River Basin: Assessing the role of summer monsoon"
+  image:
+  authors: "Jie Wang, Qiuhong Tang, Xiaobo Yun, Aifang Chen, Siao Sun, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2022.128075
+    display: "Journal of Hydrology, 612(A), 128075, 2022, DOI 10.1016/j.jhydrol.2022.128075"
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C62)
+  title: "Global polygons for terrain classification divided into uniform slopes and basins"
+  image:
+  authors: "Junko Iwahashi & Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.1186/s40645-022-00487-2
+    display: "Progress in Earth and Planetary Science, 9, 33, 2022, DOI 10.1186/s40645-022-00487-2"
+  highlight: 0
+  dlab: 0
+  news2:
+
+- ID: C61)
+  title: "How much inundation occurs in the Amazon River basin?"
+  image:
+  authors: "A.S. Fleischmann, F. Papa, A. Fassoni-Andrade, J.M. Melack, S. Wongchuig, R.C.D. Paiva, S.K. Hamilton, E. Fluet-Chouinard, R. Barbedo, F. Aires, A. Al Bitar, M-P. Bonnet, M. Coe, J. Ferreira-Ferreira, L. Hess, K. Jensen, K. McDonald, A. Ovando, E. Park, M. Parrens, S. Pinel, C. Prigent, A.F. Resende, M. Revel, A. Rosenqvist, J. Rosenqvist, C. Rudorff, T.S.F. Silva, D. Yamazaki, W. Collischonn"
+  description:
+  link:
+    url: https://doi.org/10.1016/j.rse.2022.113099
+    display: "Remote Sensing of Environment, 278, 113099, 2022, DOI 10.1016/j.rse.2022.113099"
+  highlight: 0
+  dlab: 0
+  news2:
+# FY2022
+
+# FY2021
 - ID: C60)
   title: "The importance of hydrology in routing terrestrial carbon to the atmosphere via global streams and rivers"
   image:
