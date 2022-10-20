@@ -1,4 +1,30 @@
 ## Yamazaki Lab work
+- ID: Y26)
+  title: "A first continuous and distributed satellite-based mapping of river discharge over the Amazon,"
+  image:
+  authors: "Victor Pellet, Filipe Aires, Dai Yamazaki, Xudong Zhou, Adrien Paris"
+  description:
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2022.128481
+    display: "Journal of Hydrology, 614(A), 128481, 2022, Water Resources Research, 58, e2021WR031819, DOI 10.1016/j.jhydrol.2022.128481"
+  highlight: 0
+  dlab: 1
+  news2:
+
+
+- ID: Y25)
+  title: "Multivariable Integrated Evaluation of Hydrodynamic Modeling: A Comparison of Performance Considering Different Baseline Topography Data"
+  image:
+  authors: "Prakat Modi, Menaka Revel, Dai Yamazaki"
+  description:
+  link:
+    url: https://doi.org/10.1029/2021WR031819
+    display: "Water Resources Research, 58, e2021WR031819, 2022, DOI 10.1029/2021WR031819"
+  highlight: 0
+  dlab: 1
+  news2:
+
+
 - ID: Y24)
   title: "Sensitivity of subregional distribution of socioeconomic conditions to the global assessment of water scarcity"
   image:
@@ -6,7 +32,7 @@
   description:
   link:
     url: https://doi.org/10.1038/s43247-022-00475-w
-    display: "Commun Earth Environ 3, 144, DOI:10.1038/s43247-022-00475-w"
+    display: "Commun Earth Environ 3, 144, 2022, DOI:10.1038/s43247-022-00475-w"
   highlight: 0
   dlab: 1
   news2:
@@ -18,7 +44,7 @@
   description:
   link:
     url: https://doi.org/10.1029/2021WR031226
-    display: "Water Resources Research, 58, e2021WR031226, DOI:10.1029/2021WR031226"
+    display: "Water Resources Research, 58, 2022, e2021WR031226, DOI:10.1029/2021WR031226"
   highlight: 0
   dlab: 1
   news2:
@@ -295,6 +321,22 @@
 
 ######################################################################################
 ### Collaboration work ###
+
+
+
+- ID: C65)
+  title: "Competing and accelerating effects of anthropogenic nutrient inputs on climate-driven changes in ocean carbon and oxygen cycles"
+  image:
+  authors: "Yamamoto, A., Hajima, T., Yamazaki, D., Noguchi Aita, M., Ito, A., & Kawamiya, M."
+  description:
+  link:
+    url: https://doi.org/10.1126/sciadv.abl9207
+    display: "Science Advances, 8(26), eabl9207, DOI 10.1126/sciadv.abl9207"
+  highlight: 0
+  dlab: 0
+  news2:
+
+
 - ID: C64)
   title: "Inundation prediction in tropical wetlands from JULES-CaMa-Flood global land surface simulations"
   image:
@@ -1055,10 +1097,22 @@
 
 ### Conference Proceeding ###
 
+- ID: P5)
+  title: "Where Do Humans Build Levees? A Case Study on the Contiguous United States,"
+  image: 
+  authors: Ikegawa M., T. Hascoet , V. Pellet, M. Watanabe, X. Zhou, Y. Tanaka, T. Takiguchi, D. Yamazaki
+  description: 
+  link:
+    url: https://ieeexplore.ieee.org/document/9884228
+    display: IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium, 2022, pp. 2765-2768, DOI 10.1109/IGARSS46834.2022.9884228
+  highlight: 0
+  dlab: 2
+  news2:
+
 - ID: P4)
   title: "High-resolution stream network delineation using digital elevation models: assessing the spatial accuracy"
   image: 
-  authors: Giuseppe Amatulli​, Sami Domisch, Jens Kiesel, Tushar Sethi, Dai Yamazaki, Peter Raymond
+  authors: Giuseppe Amatulli, Sami Domisch, Jens Kiesel, Tushar Sethi, Dai Yamazaki, Peter Raymond
   description: 
   link:
     url: https://peerj.com/preprints/27109/
