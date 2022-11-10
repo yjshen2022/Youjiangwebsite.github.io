@@ -23,10 +23,19 @@ Group photo in Farewell Gathering @ Komaba Campus (March 2021)
 Lab PI Yamazaki received AOGS Kamide Lecture Award (Hydrology Section), and made a lecture talk in AOGS2021 (Virtual, Online).The topic is about the review on recent advanced in global surface water hydrodynamics. The recorded talk (in English) is available on <a href="https://www.youtube.com/watch?v=xUYRr0tX7rk">"YouTube"</a><br>
 AOGS2021にてHydrology SectionのKamide Lecture Awardをいただき記念講演を行いました。 
 
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/xUYRr0tX7rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="video" width="80%" height="350" src="https://www.youtube.com/embed/xUYRr0tX7rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p> &nbsp; </p>
 
+#### Open Campus Posters (June 2022)
+
+We had Open Campus event for U-Tokyo Komaba-2 area.
+The posters from Yamazaki lab is available online [in this page](../opencampus/)
+
+<img src="http://hydro.iis.u-tokyo.ac.jp/~yamadai/OpenCampus/OC2022_JPG/OC2022_YamazakiLab_All_01.jpg" width="30%"/><br>
+
+
+<p> &nbsp; </p>
 
 #### Yamazaki's talk in public event (Sep 2020)
 
@@ -42,7 +51,7 @@ Lab PI Yamazaki made a talk in IIS UTokyo public event. The recorded talk (in Ja
 #### Yamazaki's interview on Top Researchers (Jul 2019)
 Top Researchersという最先端研究を紹介するWebメディアに、<a href="https://top-researchers.com/?p=211">山崎のインタビュー</a>が掲載されました。山崎研究室の研究内容や、その面白さや応用可能性について、インタビュー形式でまとめられています。
 
-<a href="https://top-researchers.com/?p=2801">
+<a href="https://top-researchers.com/?p=211">
 <img img src="{{ site.url }}{{ site.baseurl }}/images/picture/TopResearchers.jpg" width="80%"/>
 </a><br>
 
@@ -54,7 +63,7 @@ Top Researchersという最先端研究を紹介するWebメディアに、<a hr
 Yamazaki Lab workspace in IIS Komaba-2 Campus
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C-IkHEBd-Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="350" src="https://www.youtube.com/embed/C-IkHEBd-Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The official introduction video of IIS UTokyo. Please also visit the <a href="https://www.iis.u-tokyo.ac.jp/ja/about/feature/">institute webpage</a>.
 

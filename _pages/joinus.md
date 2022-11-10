@@ -16,7 +16,7 @@ If you are interested in, please contact us by email ( yamadai [at] iis.u-tokyo.
 
 日本語での簡単な説明はページ下部にあります。
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" width="80%"/>
 
 Group photo in Farewell Gathering @ Komaba-2 Campus (March 2021)
 
@@ -57,7 +57,7 @@ We can also take students from GPES (Graduate School of Environmental Sciences i
 
 We also welcome visitors for research collaboration (sabbatical, visiting scholar/student, internship, etc.) Please contact us if you have a plan, and we can discuss about the plan and possibility.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/StudentRoom.jpg" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/StudentRoom.jpg" width="80%"/>
 
 Yamazaki Lab workspace in IIS Komaba-2 Campus
 
@@ -91,7 +91,7 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 
 # Figure to be modified
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="80%">
 </figure>
 
 -->

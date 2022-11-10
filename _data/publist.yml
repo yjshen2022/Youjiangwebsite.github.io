@@ -71,7 +71,7 @@
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002944
     display: Journal of Advances in Modeling Earth Systems, 14(3), e2021MS002944, 2022, DOI 10.1029/2021MS002944
-  highlight: 1
+  highlight: 0
   dlab: 1
   news2:
 
@@ -206,7 +206,7 @@
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017MS000943
     display: Journal of Advances in Modeling Earth Systems, vol.9, pp.1847-1862, 2017, DOI 10.1002/2017MS000943
-  highlight: 1
+  highlight: 0
   dlab: 1
   news2:
 ### FY2017
@@ -693,7 +693,7 @@
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR026449
     display: Water Resources Research, vol.56(5), e2019WR026449, 2020, DOI 10.1029/2019WR026449
-  highlight: 1
+  highlight: 0
   dlab: 0
   news2:
 ### FY2020
@@ -958,7 +958,7 @@
   link:
     url: https://iopscience.iop.org/article/10.1088/1748-9326/11/9/094014/meta
     display: Environmental Research Letters, 11(9), 094014, 2016, DOI 10.1088/1748-9326/11/9/094014.
-  highlight: 1
+  highlight: 0
   dlab: 0
   news2:
 
