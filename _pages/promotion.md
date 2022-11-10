@@ -23,7 +23,7 @@ Group photo in Farewell Gathering @ Komaba Campus (March 2021)
 Lab PI Yamazaki received AOGS Kamide Lecture Award (Hydrology Section), and made a lecture talk in AOGS2021 (Virtual, Online).The topic is about the review on recent advanced in global surface water hydrodynamics. The recorded talk (in English) is available on <a href="https://www.youtube.com/watch?v=xUYRr0tX7rk">"YouTube"</a><br>
 AOGS2021にてHydrology SectionのKamide Lecture Awardをいただき記念講演を行いました。 
 
-<iframe width="80%" height="100%" src="https://www.youtube.com/embed/xUYRr0tX7rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/xUYRr0tX7rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p> &nbsp; </p>
 
