@@ -16,7 +16,7 @@ Our studies mainly focus on the dynamics of land waters on the global scale, usi
 東京大学 [グローバル水文学グループ](http://hydro.iis.u-tokyo.ac.jp/)の一部である山崎研究室（全球陸域水動態研究室）のWebPageです。
 （ページ下部に日本語情報があります）
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/dlab_2022.jpg" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/dlab_2022.jpg" width="80%"/>
 
 Group photo in Farewell Gathering @ Komaba-2 Campus (March 2022)
 
