@@ -16,9 +16,21 @@ Our studies mainly focus on the dynamics of land waters on the global scale, usi
 東京大学 [グローバル水文学グループ](http://hydro.iis.u-tokyo.ac.jp/)の一部である山崎研究室（全球陸域水動態研究室）のWebPageです。
 （ページ下部に日本語情報があります）
 
+If you are interested in our team, please visit the below pages:
+- [Team member list](./team/)
+- [How to join our team?](./joinus/)
+- [Promotion (lab highlight)](./promotion/)
+- [Open Campus Posters](./opencampus/)
+
+Our research activity is summarized in:
+- [Research targets and methods](./research/)
+- [Publications and outcome](./publications/)
+- [List of student academic thesis](./student_thesis/)
+- [List of awards](./award/)
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab-2022Oct.jpg" width="80%"/>
 
-Group photo in Farewell Gathering @ Komaba-2 Campus (March 2022)
+Group photo in Welcome Gathering @ Komaba-2 Campus (Oct 2022)
 
 
 ## What is Global Hydrodynamics?
@@ -37,18 +49,6 @@ In addition to natural hydrological cycle, we also assess the impact of the terr
 Our lab is one of the world-leading hydrological science bridgeheads, consists of researchers and students with multiple backgrounds (Earth science, civil engineering, geography, spatial information science, computational science, etc.)
 
 All research staff members belong to [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while we also commit to education in the [Department of Civil Engineering (Grad School of Engineering)](http://www.civil.t.u-tokyo.ac.jp/en/) and in the [Graduate Program of Environmental Sciences (Grad School of Arts and Sciences)](https://gpes.c.u-tokyo.ac.jp/index.html).
-
-If you are interested in our team, please visit the below pages:
-- [Team member list](./team/)
-- [How to join our team?](./joinus/)
-- [Promotion (lab highlight)](./promotion/)
-- [Open Campus Posters](./opencampus/)
-
-Our research activity is summarized in:
-- [Research targets and methods](./research/)
-- [Publications and outcome](./publications/)
-- [List of student academic thesis](./student_thesis/)
-- [List of awards](./award/)
 
 
 ## (In Japanese)
