@@ -1,5 +1,5 @@
 ---
-title: "Yamazaki Lab - Award"
+title: "Yamazaki Lab - Award".  
 layout: pagelay
 excerpt: "Yamazaki Lab -- Award"
 sitemap: false
