@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yamazaki Lab (UTokyo) / 山崎研究室 (東京大学)
-email: yamadai [at] iis.u-tokyo.ac.jp
+title: Youjiang Shen (UTokyo)
+email: yjshen2022 [at] iis.u-tokyo.ac.jp
 description: > # this means to ignore newlines until "baseurl:"
-  Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
+  My research mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
   
 # If constructed on website root, no need to specify
 baseurl: ""
